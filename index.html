@@ -17,6 +17,7 @@
     button { height: 44px; border: 0; border-radius: 22px; padding: 0 16px; background: var(--green); color: #fff; font-weight: 600; cursor: pointer; }
     .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin-top: 20px; }
     article { border: 1px solid var(--line); border-radius: 16px; padding: 14px; }
+    article img { width: 48px; height: 48px; border-radius: 12px; }
     article p { display: flex; flex-wrap: wrap; gap: 8px; }
     article a { border: 1px solid var(--line); border-radius: 14px; padding: 4px 10px; }
     .lead { color: var(--muted); }
@@ -58,7 +59,8 @@
     function draw(items) {
       box.innerHTML = items.map(function (item) {
         var name = String(item.name).replace(/[&<>]/g, function (ch) { return ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[ch]; });
-        return "<article><h3>" + name + "</h3><p>" + buttons(item) + "</p></article>";
+        var icon = item.icon ? '<img src="' + String(item.icon).replace(/"/g, "") + '" alt="">' : "";
+        return "<article>" + icon + "<h3>" + name + "</h3><p>" + buttons(item) + "</p></article>";
       }).join("") || "<p class='lead'>Ничего не нашлось. В Glove для Windows поиск смотрит весь бесплатный каталог.</p>";
     }
     var catalog = [];

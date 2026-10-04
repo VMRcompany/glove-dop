@@ -1,790 +1,1457 @@
 [
   {
     "id": "epcnnfbjfcgphgdmggkamkmgojdagdnn",
-    "name": "Ublock"
+    "name": "uBlock",
+    "icon": "https://lh3.googleusercontent.com/55x6S5o89SxqpMsoVYJPZzrmEdEMUtDLfGwWoQOn5xyDNaiChB_KNBKS3LHm_xrVyUHLcI5AOLuYiGnYuzQxVyBqjA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ddkjiahejlhfcafbddmgiahcphecmpfh",
-    "name": "Ublock Origin Lite"
+    "name": "uBlock Origin Lite",
+    "icon": "https://lh3.googleusercontent.com/lsanoOfx5N_t-7gh5Qg9FGIirVEjdCqalZXyLZYRd5d7Fydm83FQhu4Oq0JmlRyMtyF_LfwuQQZyKRTHs6emnFirsA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hgejhpdhgknnbiiabjjamepdojgldbhn",
-    "name": "Ublock Origin Lite"
+    "name": "uBlock Origin Lite",
+    "icon": "https://lh3.googleusercontent.com/WSLqnIEGnf_yONLvbN_YurjztU-kjkO8xzKJOdy_6U7aAkt603aNQHbOh3eJdLdpSDudxmbMlh2I0cpPTcBHrCsO=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bbdpgcaljkaaigfcomhidmneffjjjfgp",
-    "name": "Ublock Origin Scope"
+    "name": "uBlock Origin Scope",
+    "icon": "https://lh3.googleusercontent.com/CXLwY5TwNzSe_YCQu83NYGkz4HBFDD1X0k9ds7A3aME1wuI_jmYXSB_IjVNPaWG8TuCZ2aBZ4ZL99KE67KOt7nGDlA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "cdjeijkaenbacnboodpgimdfdacileaj",
-    "name": "Ublock Origin Lite"
+    "name": "uBlock Origin Lite",
+    "icon": "https://lh3.googleusercontent.com/s7P1Me_xMRWjroouLXA_TPNxW-4dBoDomT3sA7xIyl5c567EEAXuUkhYIRlQfvklUex4xM6ogd_vnYkd19JU4WctFQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ldadnegmmggmmgbijlnmjhcnjcpgkfdj",
-    "name": "Youblock Ublock Alternati"
+    "name": "youBlock",
+    "icon": "https://lh3.googleusercontent.com/6LHuFJJcVg2UDxYn1Eboi3mG5dW7FOWdNggB-sRzrYGYlIrmF1GatYrD7AX5iTMrDS9SAzXSabhDZia7GgImZ7eoFw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "nncobpmjfngafidkngebojkabaabbkhm",
-    "name": "Ublock Origin Lite"
+    "name": "uBlock Origin Lite",
+    "icon": "https://lh3.googleusercontent.com/2ppSha9k7Xt4O3BM7o_5ApCmITBf6ozVdIp20Qstr3EF0S80I60XOJxbknHtDQ1UBMUIft25uSkV_kQwUcMBPKTfTQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pbianeglgfnkldfkpjjijhgfbbkhkahg",
-    "name": "лучший блокировщик реклам"
+    "name": "Лучший блокировщик рекламы для Chrome",
+    "icon": "https://lh3.googleusercontent.com/wHwu2ILSkgIraUScYKbAqr_k5XytwwuoYMVc3FaNJDi1yTVG1D3gl15xkfhMXDugjO-l14-_vTgGT-fFZsb2oSeWCQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jaijfliolgohjgjmjgmkgjfljgfggcje",
-    "name": "Adblock Lite Free Ad Bloc"
+    "name": "Adblock Lite",
+    "icon": "https://lh3.googleusercontent.com/KMy9jGPbOYPZvBq3V45SrKNW8SZzmTIEWuJx_MQ-MQ-w4rdpAL6YHeeobIp0PJxvGXuszHQjZX6Y1LcBtHNVmP9B=s128-rj-sc0x00ffffff"
   },
   {
     "id": "aapbdbdomjkkjkaonfhkkikfgjllcleb",
-    "name": "Google переводчик"
+    "name": "Google Переводчик",
+    "icon": "https://lh3.googleusercontent.com/3ZU5aHnsnQUl9ySPrGBqe5LXz_z9DK05DEfk10tpKHv5cvG19elbOr0BdW_k8GjLMFDexT2QHlDwAmW62iLVdek--Q=s128-rj-sc0x00ffffff"
   },
   {
     "id": "noaijdpnepcgjemiklgfkcfbkokogabh",
-    "name": "Imtranslator переводчик с"
+    "name": "ImTranslator: Переводчик, Словарь, Голос",
+    "icon": "https://lh3.googleusercontent.com/5BdJZ8RtA9D8gzY63BejGvZ7Av5RX0iYXYJ0Gv8yoXwK0Qs4vQvafb7eEmfknWvQVU6zGsDw7cs-hxvBJkpuW4Go=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mnlohknjofogcljbcknkakphddjpijak",
-    "name": "переводчик Translator Dic"
+    "name": "Переводчик: Translator, Dictionary, TTS",
+    "icon": "https://lh3.googleusercontent.com/pJzMZRUgJ25inSExFSjYJbryjTv_S0KIA1luq1jQqxr0GlR0paa8JCf36Qpm_gfo-J2a86I5pFD7Jx1AnetSJTWAHA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kdamfjkjgaidaigdfelkpgdnbigclccc",
-    "name": "Lingvanex — переводчик те"
+    "name": "Lingvanex",
+    "icon": "https://lh3.googleusercontent.com/bMlM744N4T_ZzHFvWHYpqhPMKWqBxbgbE06g_2Lstkk_9emV7Jt5T6vT0W8TKYa_9IRmGIbIq82l3_HyAZibnIvo=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gbefmodhlophhakmoecijeppjblibmie",
-    "name": "Linguist переводчик веб с"
+    "name": "Linguist",
+    "icon": "https://lh3.googleusercontent.com/LDtMJ5BKIwyseZqz9wiCgoZ6UIBCbFPwOCP1vLkBJlkhq5W64ZefQFDcWlqt722eisN-nUnOgU93OlXpUyrnxkoRdg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "nhhbknaocnbdboenlibfmpcllbmiepam",
-    "name": "Smart Translator"
+    "name": "Smart Translator",
+    "icon": "https://lh3.googleusercontent.com/h7TG6XBy-tt96PE4uicp-r06ei11wrl78ZrkErC8Hna6PhxaAUtEEvVtiLdDljIreGuuOcngOwX0nkzOGf7kI6QIXH4=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bpoadfkcbjbfhfodiogcnhhhpibjhbnh",
-    "name": "иммерсивный перевод двуяз"
+    "name": "Иммерсивный перевод: двуязычный перевод веб-страниц и PDF-документов",
+    "icon": "https://lh3.googleusercontent.com/ctwCc-HN3ov9GXSD-Aw1pgvCiF8iQij9xnIO3JRm6KuF1574gIj839_rJbat7Q1TqlkF3oFvyM7YCzpJHZTgyOtVpA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ihmgiclibbndffejedjimfjmfoabpcke",
-    "name": "Mate Translate – переводч"
+    "name": "Mate Translate – переводч",
+    "icon": ""
   },
   {
     "id": "pnpdnibdembnnlaiibkeandepjajegoi",
-    "name": "переводчик"
+    "name": "Переводчик",
+    "icon": "https://lh3.googleusercontent.com/aFx8-BXAAkm10OWrgvWUL-KCzO0PMjPfCKNauXIVqQi0rqzschQsqGetb_t1Tu_6hFS2uK_tPKWMSRDI64_-58jqbw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "nglbhlefjhcjockellmeclkcijildjhi",
-    "name": "Lingualeo Language Transl"
+    "name": "Lingualeo Language Translator",
+    "icon": "https://lh3.googleusercontent.com/PaTxDZWdqdX20w-iItrseijoLuZR19-YboOC3ST2mxs7R_0ePyQKaYdh96SFrexhIhbPPTymM6JSrDDblc6cJztBEQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "majdfhpaihoncoakbjgbdhglocklcgno",
-    "name": "бесплатный Vpn для Chrome"
+    "name": "Бесплатный VPN для Chrome",
+    "icon": "https://lh3.googleusercontent.com/Rm5hcKXvm9Prc-vyHzNGRpRVPxZAKQiiKPDNWW4Sn-MOm_-TxDOcKqNDpHUOYZBVidpnqWt22Wjwz9vtgW8nq-9Mrw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "omghfjlpggmjjaagoclmmobgdodcjboh",
-    "name": "бесплатный Vpn впн Proxy"
+    "name": "Бесплатный VPN (ВПН) Proxy для YouTube в Chrome",
+    "icon": "https://lh3.googleusercontent.com/hb76uDAkXDZeNYMRFI6v3afzyilWTc1OL1Bf39gST3KNHzZrWo40lFaVHND1gBJJgQr2cIDRspaCfdaT5Xd9hWtfZ14=s128-rj-sc0x00ffffff"
   },
   {
     "id": "akcocjjpkmlniicdeemdceeajlmoabhg",
-    "name": "бесплатный Vpn впн Free V"
+    "name": "Бесплатный VPN / ВПН",
+    "icon": "https://lh3.googleusercontent.com/DWMNLeL7sAfl1EqNUPuyprq_SzxgMYElvGIOlU4bVPdRyIMMR62k_Xd6-P-Z6daw3v_2WY62amqce157UqaTFHFoj7Q=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hipncndjamdcmphkgngojegjblibadbe",
-    "name": "бесплатный Vpn для Chrome"
+    "name": "Бесплатный VPN для Chrome, ВПН с блокировщиком рекламы",
+    "icon": "https://lh3.googleusercontent.com/W-ZW5K6eDXclXlZJ-mlpoEQ995Bovgx88fk4VgSftrhC182wag7KzPIbs72LIR6g03MuG8wSc-Txm2Drv5D1sO-_pg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bfidboloedlamgdmenmlbipfnccokknp",
-    "name": "Purevpn Proxy лучший Vpn"
+    "name": "PureVPN Proxy: лучший VPN для Chrome",
+    "icon": "https://lh3.googleusercontent.com/152ssMrWdYIvX9aWUcziXOlm8Bjs3gdV-oCaFzZVYH-n2lHbpraeuG191bBHwnLzN-mQMt8UFhaq0Yo_5fZG3O6h61g=s128-rj-sc0x00ffffff"
   },
   {
     "id": "lneaocagcijjdpkcabeanfpdbmapcjjg",
-    "name": "бесплатный Vpn и прокси д"
+    "name": "Бесплатный VPN и прокси для Chrome",
+    "icon": "https://lh3.googleusercontent.com/WUfF-ZmSpItjcflpK7ZmgYXoV3qvkyUHFPRyuI2HfxzI5aA60yd4srFxfLozjubgCS9ukFyitwAumOTGD8f4iR3k=s128-rj-sc0x00ffffff"
   },
   {
     "id": "adlpodnneegcnbophopdmhedicjbcgco",
-    "name": "бесплатный Vpn для Chrome"
+    "name": "Бесплатный VPN для Chrome",
+    "icon": "https://lh3.googleusercontent.com/MXRJL-W8MQLuFpi3arAG2UZqhN0bCsYKI5PbjlIjtzdyA9q2EkWfdEoQA_WxoahBZggBoAZ38WWJFPrQJb_ANd1pn1U=s128-rj-sc0x00ffffff"
   },
   {
     "id": "fcfhplploccackoneaefokcmbjfbkenj",
-    "name": "бесплатный Vpn для Chrome"
+    "name": "Бесплатный VPN для Chrome",
+    "icon": "https://lh3.googleusercontent.com/QYfNTWcHpj_aBwFvuo_dovoCog8S4fKyeW3uQX3MjchCVD0Lnj1QVL2DF0gJmnwtrN5g_EaLa5q7aJi0V96SN2Ei=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pdmchlannmelcagdkakcefmbmpogcgfo",
-    "name": "Qu Vpn быстрый Vpn с надё"
+    "name": "Qu Vpn быстрый Vpn с надё",
+    "icon": ""
   },
   {
     "id": "bnlofglpdlboacepdieejiecfbfpmhlb",
-    "name": "Turbo Vpn безопасный бесп"
+    "name": "Turbo VPN",
+    "icon": "https://lh3.googleusercontent.com/fyiXyQKgU8mVm28PkFQv_ACj5SsI9gFvTbcrM2zS_z8Feck2aS9RmWrinlS4KPw12kS0aAZ2TX2oOjFiC3yyuVJ7Pg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dmghijelimhndkbmpgbldicpogfkceaj",
-    "name": "Dark Mode"
+    "name": "Dark Mode",
+    "icon": "https://lh3.googleusercontent.com/TeZvYLfbfUXx-roACo6EISBR1yZxgbftee-AKyaR6QgDj7u6d2LV8vnT-V43PgcZS0Wqept2wULpuGH8RsrGYv-E=s128-rj-sc0x00ffffff"
   },
   {
     "id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
-    "name": "Dark Reader"
+    "name": "Dark Reader",
+    "icon": "https://lh3.googleusercontent.com/T66wTLk-gpBBGsMm0SDJJ3VaI8YM0Utr8NaGCSANmXOfb84K-9GmyXORLKoslfxtasKtQ4spDCdq_zlp_t3QQ6SI0A=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mafbdhjdkjnoafhfelkjpchpaepjknad",
-    "name": "Morpheon Dark"
+    "name": "Morpheon Dark",
+    "icon": "https://lh3.googleusercontent.com/javmQ38Bi9ItF9-J7wqn9uZw0rJO6EZCrxykub9xWKovzN2W8kxULhQPb4JCnxeCGmFO3kRCsBUsMPMUTPi49YHZfg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ifdccgjiicdiaghhigodkknhmcjlpdcc",
-    "name": "Comfortable Myanimelist D"
+    "name": "Comfortable MyAnimeList Dark Mode",
+    "icon": "https://lh3.googleusercontent.com/eWo0k__HVagOngYpahCYpBfcOEqg13d8iUK6UYpOpecyJeMX2VBDcpo-pPlxYrqzEg9J1jolo2mweZndoCuxiwdC=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gjjbmfigjpgnehjioicaalopaikcnheo",
-    "name": "Dark Mode Dark Reader For"
+    "name": "Dark Mode",
+    "icon": "https://lh3.googleusercontent.com/ZcygLP2KlmGrQHxvr7gUKXzO_zD9FqK3K1vPlSoNS1ZdUHn8QPuy6xeD7rEi4zx099ilVwX05Vo6d22L2Tup1jI8KQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mkeimkkbcndbdlfkbfhhlfgkilcfniic",
-    "name": "Shade Dark Mode"
+    "name": "Shade Dark Mode",
+    "icon": "https://lh3.googleusercontent.com/ystsmMnsrN1wVor6XUo6GfUriQGaaNKJL9qO8JgladdiB-V33h6H4HwTQNTU4czs1Hla4Mo-MFO7A-zsQNc93DaSYAk=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dpjfjjogncmalibegalebgbnfigonomb",
-    "name": "темный режим"
+    "name": "Темный режим",
+    "icon": "https://lh3.googleusercontent.com/St_NrgnhrWzXdOVEk2P55qkRJsgt7Yw9tduyitVxD1OFCMp1T7C0SCbeTVh6qnObJlObK1YSZyK4uccSbCjycmQ5H4E=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ioleaeachefbknoefhkbhijdhakaepcb",
-    "name": "Gloom Dark Mode"
+    "name": "Gloom Dark Mode",
+    "icon": "https://lh3.googleusercontent.com/-s8725csPjyh_UT6DDNoLwX7HLOndhFrZ5YBXGZ97WGUgiJilgmkoxtRrSqf_QLF699Bv-umVFGUAwMQKwPNRNL5Tw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "annfbnbieaamhaimclajlajpijgkdblo",
-    "name": "темная тема для Google Ch"
+    "name": "Темная тема для Google Chrome",
+    "icon": "https://lh3.googleusercontent.com/x1L98H2-cWERI4uBPlrhNmyZGy-dBpg8DCSBxZCgJqfFfzmj2VjdD2K2u1vdZc7DbKanyUu4_SkB2-naof2WwLcRwA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "epbpdmalnhhoggbcckpffgacohbmpapb",
-    "name": "Dark Mode Dark Theme For"
+    "name": "Dark Mode",
+    "icon": "https://lh3.googleusercontent.com/APoWsNRZLOEL7G2YdVFwxaBAEA6Nc20Z-qNRsE48QTlzxE4KOe5-4bl4EwmdgWZ-GyPBmUJG1vnR6ZYQ6IRDO8ej=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hdokiejnpimakedhajhdlcegeplioahd",
-    "name": "Lastpass Free Password Ma"
+    "name": "LastPass: Free Password Manager",
+    "icon": "https://lh3.googleusercontent.com/2E-kdWD96KmPMAR7_XC6d_zWHio7n7skW8-9S5R42ZQvTX-djSt-qbwhuiM5znQ5Iqj9SWuP4fqfycgt_OD9aLWh=s128-rj-sc0x00ffffff"
   },
   {
     "id": "noondiphcddnnabmjcihcjfbhfklnnep",
-    "name": "Password Alert"
+    "name": "Password Alert",
+    "icon": "https://lh3.googleusercontent.com/XNaifuzi9vEheMGKLxEcyPTCjTlBFff5xUMUajMQ2-911GHWBvAYcM1KUuJuGscxdwG_bO8vePMXCp_in2LdpZYWug=s128-rj-sc0x00ffffff"
   },
   {
     "id": "aeblfdkhhhdcdjpifhhbdiojplfjncoa",
-    "name": "1password — менеджер паро"
+    "name": "1password — менеджер паро",
+    "icon": ""
   },
   {
     "id": "bnfdmghkeppfadphbnkjcicejfepnbfe",
-    "name": "менеджер паролей Sticky P"
+    "name": "Менеджер паролей Sticky Password",
+    "icon": "https://lh3.googleusercontent.com/dQ_LrVUMTe1PcHrerlexcfxgvoI-MTHzb8vtNWUZ2d9RDaDjEpBjxbDCMvD-9xabgImV8HYuPHCb042KG5aPFWvNxQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bfogiafebfohielmmehodmfbbebbbpei",
-    "name": "Keeper® диспетчер паролей"
+    "name": "Keeper® диспетчер паролей",
+    "icon": ""
   },
   {
     "id": "mmhlniccooihdimnnjhamobppdhaolme",
-    "name": "Kee Password Manager"
+    "name": "Kee",
+    "icon": "https://lh3.googleusercontent.com/ZaPJGZ1gJiE0kBqZsHx2BPrLl7ufnLg_tJHjKKPLnYjaUjIPXM7C2qn4xiJuwld7CM4vus1GIJAFD_EtflU-DsYVZQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kmbjcfefmceiibhnddbeenklcmpehmdd",
-    "name": "Tweakpass Free Password M"
+    "name": "TweakPass: Free Password Manager",
+    "icon": "https://lh3.googleusercontent.com/BidmgRuVxuCyuATEQ3RAwXqhxSCKV8pmfleCe26YdQy85mNPAcu5NlLhKoDVWxmUp5cWNDjy6081IU1wI6uvYju9nQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kfmlopbepahlcjbkfnnklglgibbopkbk",
-    "name": "C2 Password"
+    "name": "C2 Password",
+    "icon": "https://lh3.googleusercontent.com/URaHOnsw2vaiAKFDjuDR48d3275nPLEkKlArh2SjsBZ-R2jfeESRL7ikaYkf--OOqf6umaGTzWI9nc9OETNiZFAkaA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ghmbeldphafepmbegfdlkpapadhbakde",
-    "name": "Proton Pass Free Password"
+    "name": "Proton Pass: Free Password Manager",
+    "icon": "https://lh3.googleusercontent.com/YbQD0AodeFpB7drb_652Rf1L_NOCoGp22yFOw--YcspcC-KcCNwk3zY6OOjmPHp6xeH1c6nhaxKPfuJvMRlPU19A=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kobncfkmjelbefaoohoblamnbackjggk",
-    "name": "Youtube To Notebooklm You"
+    "name": "YouTube to NotebookLM",
+    "icon": "https://lh3.googleusercontent.com/2vjgHkC8QxpxfHEB79t5Uj1m-mA_FDg0IzeAjlinhXCRThsZ_xZEOFvNpJOZyDcIFngtegZk8XS58g9OHjOOb_pwokQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bnomihfieiccainjcjblhegjgglakjdd",
-    "name": "Improve Youtube 🎧 For Yo"
+    "name": "Improve Youtube 🎧 For Yo",
+    "icon": ""
   },
   {
     "id": "jddgbeighonaipjikdnfdpiefhoomlae",
-    "name": "юбуст Vpn для Youtube обх"
+    "name": "юбуст Vpn для Youtube обх",
+    "icon": ""
   },
   {
     "id": "fffiogeaioiinfekkflcfebaoiohkkgp",
-    "name": "Youtube Tags"
+    "name": "YouTube Tags",
+    "icon": "https://lh3.googleusercontent.com/OkNIIo1HR0rF8W3n9R3KQK8TLPbE8JOdZhO8jv1IARnicvErPIosFz-t4HQvU8T56DsrNXivQXPdiXVDRbjlJCt3=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jbagkfehijlbpamidikhgjcfijjdcbib",
-    "name": "Youtube Pip картинка в ка"
+    "name": "Youtube PiP",
+    "icon": "https://lh3.googleusercontent.com/zD58KvWGtYxnxQ3oGzF-bdbjHzz6Izk34tu0SHCs0uY2EHUwsUvWjoJT614AGqg2Wj5jvW_mTiDEAGCVAf5EwYd3jQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ponfpcnoihfmfllpaingbgckeeldkhle",
-    "name": "Enhancer For Youtube"
+    "name": "Enhancer for YouTube™",
+    "icon": "https://lh3.googleusercontent.com/6PBcKpsoS15e2SUqMi6_KGBHsnvUdaRrRYXkHM3zkn5Zzj8TAEJp1_RtykaCfn1DCmyH9PJOKHrMbmtAOnQqtAU8aLs=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ojigagjjcmnbplgdkggkkleckaohppok",
-    "name": "блокировщик рекламы для Y"
+    "name": "блокировщик рекламы для Y",
+    "icon": ""
   },
   {
     "id": "mnjggcdmjocbbbhaepdhchncahnbgone",
-    "name": "Sponsorblock для Youtube"
+    "name": "SponsorBlock для YouTube",
+    "icon": "https://lh3.googleusercontent.com/oSoXDpjLX_iytl11_ROa1thmFI0xPk9pL8ttEtnFkBI8Cie0Ge8KxVFaokgBRscvUR1cXH4bVeG_C_Fl6kBw3A3_=s128-rj-sc0x00ffffff"
   },
   {
     "id": "cmedhionkhpnakcndndgjdbohmhepckk",
-    "name": "блокировка рекламы для Yo"
+    "name": "Блокировка рекламы для Youtube™",
+    "icon": "https://lh3.googleusercontent.com/bMu6IzWn8zG4yCpDcUrrTHA8bh5pVuAW706__3d2e6Lw_XwpqY3qxn_BfqUS3aaCTisvqFQIN1C9ac4Dm6s0Fz-vOg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pdebhfmknndmlfoklnkmadfbjfadjdme",
-    "name": "смена темы и цвета для Yo"
+    "name": "Смена темы и цвета для YouTube",
+    "icon": "https://lh3.googleusercontent.com/8ad_xPgB5rI4W7ZE0HkFB6K5DVJ7Nwhlh5Q-X1-nwciR25l-sWPdvp3j92Kp44nbcDDqBG1RCt7rtRNd8h2U3qNRpyk=s128-rj-sc0x00ffffff"
   },
   {
     "id": "efaidnbmnnnibpcajpcglclefindmkaj",
-    "name": "Adobe Acrobat редактирова"
+    "name": "Adobe Acrobat: редактирование, преобразование и подписание PDF",
+    "icon": "https://lh3.googleusercontent.com/aqahGz3euXadmtmp8NZnuKPoUm4cmewNY0AI1a_cMsC28cfvB2Bx3NArY9Mi50o2zF45Uh74Rmmq-Bh6dJRsVAbm=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jdlkkmamiaikhfampledjnhhkbeifokk",
-    "name": "Pdf Viewer"
+    "name": "PDF Viewer",
+    "icon": "https://lh3.googleusercontent.com/GPxWvMX3myxbRj1JR2nsUDefHiVbOOjBGKB8tMHvhXDOOlT_1tgh36XMhmlhiMWrkVSKFYFFD4yjPHStxYHW9Py9XcA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pamnlaoeobcmhkliljfaofekeddpmfoh",
-    "name": "веб в Pdf сохранить стран"
+    "name": "Веб в PDF",
+    "icon": "https://lh3.googleusercontent.com/pbdr4AmVTqVi9_78cqjTPcnr-iQxvKxexO8MNOmn2SPXIASw5KXd5V6sKDHXuiuUQRUVeW1_iqUSzlfL5o9ua2VTIw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "cbdolfjnphjlbbpfdcohojjmbkkfpfom",
-    "name": "онлайн инструменты для ра"
+    "name": "Онлайн-инструменты для работы с PDF | ilovepdf.com",
+    "icon": "https://lh3.googleusercontent.com/zZzEOEg8eIbmaXTjKeiaAAspydHMPudQPohmbZ2C23UJ-D1SEwiavBs9y3H30Mjo2s_S7WiYZTCBHHg4zHRjW8Ey5n4=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ieepebpjnkhaiioojkepfniodjmjjihl",
-    "name": "Pdf Reader And Editor"
+    "name": "PDF Reader and Editor",
+    "icon": "https://lh3.googleusercontent.com/FlLjPRU9r2LZSr6NAlkR7tt-vdFvTWq5_1sKC2JcK1yJSWa9ObJfnX5oHLDwxK1Ojkdx4GR04Q_g2H1gszc5f1840-g=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gpkildejogofhhobidokcjpolaikgldj",
-    "name": "веб страница в Pdf конвер"
+    "name": "Веб",
+    "icon": "https://lh3.googleusercontent.com/dBq4G8BWqmVc4I71IBT4Nze0ktS2TEC26uXcVdSBCEfuGIGMzeS2FJknUjMT0AJcwVEHNg5Lr4ZRxcHt9zICHqUxQ9Y=s128-rj-sc0x00ffffff"
   },
   {
     "id": "oemmndcbldboiebfnladdacbdfmadadm",
-    "name": "Pdf Viewer"
+    "name": "PDF Viewer",
+    "icon": "https://lh3.googleusercontent.com/7Jpa5LVie5PhUmF7aTTVJ7iQl_EF5-aawIMI8ztaBWAKM9sy7ovmkDkQX0xGpxA9SfAn-wdOYpvF3mhlNWfDjnnc=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dbkidnlfklnjanneifjjojofckpcogcl",
-    "name": "Lumin редактор Pdf — прав"
+    "name": "Lumin: редактор PDF",
+    "icon": "https://lh3.googleusercontent.com/rTvEtZVTPdZfwf8eyoEN456pkUMV0HQh5Mr8jpZ3PyRnNxKELk3nDfSnK5HwBOko851hIA0SMXgzjjE3HTwikoo6MA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dahenjhkoodjbpjheillcadbppiidmhp",
-    "name": "Google Scholar Pdf Reader"
+    "name": "Google Scholar PDF Reader",
+    "icon": "https://lh3.googleusercontent.com/Ew0Aln7VazUPlGoEwkyHbN_EwOW-gdM1EnB7pTCLvGgwva0yGq0aW7mBNIc4kTtxHc4J4W_9odFT-Y_x8RRVDvTr=s128-rj-sc0x00ffffff"
   },
   {
     "id": "njbdnibcpdbppaidpkopicbkgnbnkkhi",
-    "name": "Pdf редактор онлайн"
+    "name": "PDF редактор онлайн",
+    "icon": "https://lh3.googleusercontent.com/9_QtHM7U4LzlSynco0DEqq9hDHdnPVP5kpuCJ2p-xKdoM0sXsB9jSIeLcc08dzCrh7oCbld4EayymLszY7FCURIy7g=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mpeepmfabickbdbckcejbflkpfamgcon",
-    "name": "Grammar Checker"
+    "name": "Grammar Checker",
+    "icon": "https://lh3.googleusercontent.com/JyULMxujhK7UfJrutaeUiB6sV4Rz74wzkTC1taCBaVBCyBr78fUWVuSW9SdqdYKQukC1GlTQxFU5qA3xEOKvuib-=s128-rj-sc0x00ffffff"
   },
   {
     "id": "oldceeleldhonbafppcapldpdifcinji",
-    "name": "корректор грамматики и ор"
+    "name": "Корректор грамматики и орфографии",
+    "icon": "https://lh3.googleusercontent.com/aWtP0rIATRVsZjZHBoicvGMeXImFkM4PV4LVJ3SWyJ6LFYDFjHjp2oJYZAND3HW-3Fz0Sgx9liEq2G6Ftq4OIEOO0zE=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dmgkiikdlhmpikkhpiplldicbnicmboc",
-    "name": "Scribens исправление орфо"
+    "name": "Scribens: исправление орфографии и помощник по письму",
+    "icon": "https://lh3.googleusercontent.com/D51EHVeCKLNU0DfkWs9ndFErMDbNh3YWnmP-2MOlUVA4RkspBQo3U-YEAacPnRttuUaWP4XL7honlQApF_dQRf_J0A=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ndgklmlnheedegipcohgcbjhhgddendc",
-    "name": "Linguix Grammar Checker A"
+    "name": "Linguix: Grammar Checker and AI Writing App",
+    "icon": "https://lh3.googleusercontent.com/OLcAhPtuffN2SnnzUhK9WYLOmDcfYACT67G_5WP970_QPhhoCRgJl76rJPRsu0NPK-8AX0_LgXIVd6k7XCsxsIeHyG0=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pkfmoknmnkbidlniedaloiijibdpjjmm",
-    "name": "Grammit Ai Grammar Checke"
+    "name": "Grammit: AI Grammar Checker",
+    "icon": "https://lh3.googleusercontent.com/R_FAYOUaszXOOiQiXQUcJusso61o2S5zzT3SbIUKn_io0a2OAcNQa1pbpKyGwk2wr4c3nSW2rdxA390qfTh08em1vQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ccdgganjdchapijojpechfkdlmfddmci",
-    "name": "Grammar Checker Offline"
+    "name": "Grammar Checker (Offline)",
+    "icon": "https://lh3.googleusercontent.com/0AaiAgTS7-H3s4-hTLpFt_P7y9W5OWC_4FotIqZ2AAhc5AO75l2s0AyD_WMKFv1o1haNEpbKfFb-dlktmJv6Yf1MbMU=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kdfieneakcjfaiglcfcgkidlkmlijjnh",
-    "name": "Ai Grammar And Spell Chec"
+    "name": "AI Grammar and Spell Checker by Ginger",
+    "icon": "https://lh3.googleusercontent.com/86USJ7suJGm9Pq-qU6CB2rcwJ9mT3F8hCTtk3AHc_VKBjNUbLTf5qcqDm92_paIfq448mQxIEp9yjE_CsB4tBS_khPQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mhpjgcccinlocgiklkfllehilgmcnimp",
-    "name": "Paperpal Grammar Checker"
+    "name": "Paperpal: Grammar Checker, AI Writing Tool &amp; Research Assistant",
+    "icon": "https://lh3.googleusercontent.com/_j1dR4rlztw1jb385eLYxa6pv1xePxEUVS1FAoo0sgxGlM0nUEUMdwF2Y29AsmxA9enUouw0EH0TAo1nz0SFR4x3zA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "lodbfhdipoipcjmlebjbgmmgekckhpfb",
-    "name": "Private Grammar Checker H"
+    "name": "Private Grammar Checker",
+    "icon": "https://lh3.googleusercontent.com/JmRk2vox_TF5q-m1oHhlaFdIP4pO5QnUc50R-v3bdiH59_cGXjSypLS4MzAjTKbqrhBVphZOUnBShvVhiw9C1JCJSlo=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pjpgohokimaldkikgejifibjdpbopfdc",
-    "name": "Sapling Grammar Checker A"
+    "name": "Sapling Grammar Checker and Writing Assistant",
+    "icon": "https://lh3.googleusercontent.com/mMb6EE8mPjogO8MmAH87SNgkJOxhy8HO3EO_w6wuOlK55JDOyml9IN-kNsWY0S5Gy0M1hA5sFLPipgo1OxoKrheWpA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "iolcbmjhmpdheggkocibajddahbeiglb",
-    "name": "Weather"
+    "name": "Weather",
+    "icon": "https://lh3.googleusercontent.com/k0gAYlLrKnJ4Oxtwbs1XRM5cnjXgiUMXx9ClMugpC34_4D45DRTExwUPHa0UpUo4lRy0j1BLPgoK8EV6LkKFvdzQWA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ofobaelkgcpicbdoabokjlnmdcbjellg",
-    "name": "Weather Forecast"
+    "name": "Weather Forecast",
+    "icon": "https://lh3.googleusercontent.com/sv07wWL_2QQwqVpR1TsjgJ5YIf4DJxiE39XiHZ-b1y652UaQk1mqPBjInORRdGVehNO99kCr0WmaLl7yswKZpSyO=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mfhfabihcpklaoadegkbfpfbenneniad",
-    "name": "Weather Extension"
+    "name": "Weather extension",
+    "icon": "https://lh3.googleusercontent.com/yy2-5bd6Udy6qSgLUNWSd7X8Ho71EarHYXO5wMsITY7aMlPKHAVccqWZ3WY4V0V_aEYFyAxrirn0UgzDOdxBdOXRxyA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mfogpgphfgmidondkpdipmhaafkieodm",
-    "name": "прогноз погоды"
+    "name": "Прогноз погоды",
+    "icon": "https://lh3.googleusercontent.com/g1Q4r_FoBmdjKn0T4aDYv_AzAdOavSoz8RBXZNFixuvOTJXjGDMZn5BDXXO9tUgJ4KiIm5ZI3RmIsW5EuDU-9Ei_PKI=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ngeokhpbgoadbpdpnplcminbjhdecjeb",
-    "name": "Uv Weather"
+    "name": "UV Weather",
+    "icon": "https://lh3.googleusercontent.com/TzjOqNzA4351P2RwoJ7YP3VqkK1QC4IrMWYgFSPo5vtf75li9i4vZFAZiEzygpE3YRMQkUtpWMWU_ImBJTJkJksX0A=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hjphhbgleggdljkdlmlblbamlnkmdgag",
-    "name": "Star Wars Weather"
+    "name": "Star Wars Weather",
+    "icon": "https://lh3.googleusercontent.com/uw3djPC0PUa4BIEZWj-Wjk1gkgLWWQeWEIwTRwxIWpoglRSt4kF_5cWZ8FEROyW08uj7zyStc3exFVcBceAlQ1vy=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pgpheojdhgdjjahjpacijmgenmegnchn",
-    "name": "Weather Please"
+    "name": "Weather Please",
+    "icon": "https://lh3.googleusercontent.com/YZggST8D1VAyTjEOjAMCx75orFnOSZ5ZJDg2lN_Sf8W9MoFu8qC6yozGaHRofDG1hDIwUS9O0lEloAK0QbOCw0AylHs=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hhodnpljldlmcdgielblijcfppncjogf",
-    "name": "Forecastfox прогноз погод"
+    "name": "Forecastfox",
+    "icon": "https://lh3.googleusercontent.com/32PTUN-8WAn0HUl9mpOqy63N4UjHdiM8mOjdU45ODrRQdDNBEpqcitEXdy0_vyQxdPbFedJqwAmrfUBnkGP2FyU5=s128-rj-sc0x00ffffff"
   },
   {
     "id": "knfdfghaoojgfeoaknibjhpdjmadchap",
-    "name": "Daily Weather Forecast"
+    "name": "Daily Weather Forecast",
+    "icon": "https://lh3.googleusercontent.com/8JzbOGWY32DegVBapdC8tIfPhTH3AVyef4o0EEtfcj05rDXaNFGctsaEvCIiz0BRVYeVDdTShcGS_31_IaTzrWoGiA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ndofdhehokigfkjcchkdeoihgilbping",
-    "name": "Weather Now прогноз погод"
+    "name": "Weather Now! Прогноз погоды в реальном времени и двухдневный прогноз",
+    "icon": "https://lh3.googleusercontent.com/krjyDaF9FR03OsjyzOs5kL8aY4hy06PLh7kbBdzPtF1-0VOZUBGnFY05Iq27vIX1ZluK34GdaLsH903JvwoMmip8fQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "edlifbnjlicfpckhgjhflgkeeibhhcii",
-    "name": "Screenshot Tool Screen Ca"
+    "name": "Screenshot Tool",
+    "icon": "https://lh3.googleusercontent.com/3k58goRZeXVZeboVHW9PF_cTtKzsGmnEn44SrVUdijcJTmOVuSHTdeUyVKZxME4g1UpAm2vqQ4wYzc0V7flWeKMCsRk=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mbniclmhobmnbdlbpiphghaielnnpgdp",
-    "name": "Lightshot Screenshot Tool"
+    "name": "Lightshot (screenshot tool)",
+    "icon": "https://lh3.googleusercontent.com/TIbsibAuq-iUGw32x-BjzBXluUuNV5sTNQJg69vC72CmhEned3zUhjKn33K7g04GhRzZBbDYEzTKbwVJbeT1zQ6-=s128-rj-sc0x00ffffff"
   },
   {
     "id": "nlipoenfbbikpbjkfpfillcgkoblgpmj",
-    "name": "потрясающий скриншот и за"
+    "name": "Потрясающий скриншот и запись экрана",
+    "icon": "https://lh3.googleusercontent.com/9q6_biGbJRBzZ1q4er_4X85b60TdnJRwM4vTBAMeBydjEuQbA0EMRJ6bZY_-4_OkGudYbPMZkBIZ_UrtmvKBiubufg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mafopchedjkbgkpbbnbgifaolempmdgh",
-    "name": "Screenshot"
+    "name": "Screenshot",
+    "icon": "https://lh3.googleusercontent.com/L7NpKTG7m0tdOLT3qP-gvi30h82UUrDXeMAOcQP0SCqKnlCqzHfHT23u3471xQ3wEDoBSL-VmoIS4Vr0i8Owd2HySQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dajlhodahakobmgdiglkajjgbchiiccf",
-    "name": "Handy Screenshot полный з"
+    "name": "Handy Screenshot",
+    "icon": "https://lh3.googleusercontent.com/eDnozqQ8tkw_iCo57m0iz0Q9B0EJ_VyhWIgpYo3IXji4G3UZat90RZfVi3B1bh02urarSTx56k0Yu0kGwRMp280P=s128-rj-sc0x00ffffff"
   },
   {
     "id": "okkffdhbfplmbjblhgapnchjinanmnij",
-    "name": "Screenshot Webpage Screen"
+    "name": "Screenshot",
+    "icon": "https://lh3.googleusercontent.com/AHdA4yszVaeq7gq0Z64oryXZDabo9CEWui6ANmEJ5NP88muRMRx6zo35iJtedQ2bQtHK1caD9ABDDu8LRTCCsb7hdw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ggacghlcchiiejclfdajbpkbjfgjhfol",
-    "name": "Fullpage Capture длинный"
+    "name": "FullPage Capture",
+    "icon": "https://lh3.googleusercontent.com/kws--w4XfF5BwmiT6q7QYQORag4OEGd-Qt6gcbOY6ZV3REB3VWxSqJTA3G1wlqQpkr2lIsWh6t4htXsBVBd3Dpq_dA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mfpiaehgjbbfednooihadalhehabhcjo",
-    "name": "прокрутка экрана и захват"
+    "name": "Прокрутка экрана и захват экрана",
+    "icon": "https://lh3.googleusercontent.com/IM0EAjYQaOTDIoxiZ4h2uRf-k1bLn1Lzm3SoMsVIevHYTpJpVG1idOaWVhD4PZz8wgeY8G4N34cqvJJjOfqHzhOF1Q=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ppkojackhibeogijphhfnamhemklmial",
-    "name": "Video Screenshot"
+    "name": "Video Screenshot",
+    "icon": "https://lh3.googleusercontent.com/cfwgbr_tu0DcNDjt1g_sIaky5SPxPCnanGfJyvweilp3S_2cXvIcJOMknygxTIUgK_pCO3X8voLXCYlQbIu587oPw-Q=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gjoijpfmdhbjkkgnmahganhoinjjpohk",
-    "name": "Screenshot Youtube"
+    "name": "Screenshot YouTube",
+    "icon": "https://lh3.googleusercontent.com/3nsl2pyYuGghoFH_gi6qjAx6Xfi0RvnZK1QD1K36SE-h5km8fjkFJvRNJcNFm_jtRfmf8Y-YSrOmX9eXCSIjrYy-LQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mgijmajocgfcbeboacabfgobmjgjcoja",
-    "name": "Google Dictionary By Goog"
+    "name": "Google Dictionary (by Google)",
+    "icon": "https://lh3.googleusercontent.com/R2e7I-0MQgxeJ-dkkGfDxL2PWPcR3DTGhttSloJO70ax2N0TEtcT-AlmLcMAJZyHOhhqRTTpuJjO9qVs24DUDIMYVsk=s128-rj-sc0x00ffffff"
   },
   {
     "id": "cppdeppdfkcdmmhnocldacomdeilfbei",
-    "name": "All In One Cambridge Dict"
+    "name": "All-in-One Cambridge Dictionary",
+    "icon": "https://lh3.googleusercontent.com/KOnyuHd38C8Hm0k1ZeGjm2n45lxz7QroI4826yrNw7K_IW5YNWydK-FHWpGtiHtkRwRIyrq6MclUqoov1JhCQkyb=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dnclbikcihnpjohihfcmmldgkjnebgnj",
-    "name": "Mouse Dictionary"
+    "name": "Mouse Dictionary",
+    "icon": "https://lh3.googleusercontent.com/eNX8Xtj8jWiGl0kKnCnPb3TJodYisL-BzMG3MOIThtCYcVWspJ8BoTOXEEu2wiSuwAJftEquZ0je_9LTROH94vT6-w=s128-rj-sc0x00ffffff"
   },
   {
     "id": "cmgaipmnoaopgkpbdadlfnjgilcapgob",
-    "name": "Lexico Dictionary Thesaur"
+    "name": "Lexico: Dictionary &amp; Thesaurus by Oxford",
+    "icon": "https://lh3.googleusercontent.com/UsMklGshpCysYbqwld1KJUL7INUuSvBGX7ZVrERRQCB7lRDjXqJJwwzpLv_cQ4BEcVIELPnbJsZLwkC8OimCioQxhQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dbiljoifjihhnghopaokjicepkcdfglo",
-    "name": "Cambridge Dictionary"
+    "name": "Cambridge Dictionary",
+    "icon": "https://lh3.googleusercontent.com/O78LNfIxfrQRg-vXXBe5qL0-hU0zhWKjn9fNnFkqrMh9kodTbQKxVHYbKLv5O-oJIJH4IRm3Pa7bsgOVVWMiMcgc=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gmhgdiamihghcepkeapfoeakphffcdkk",
-    "name": "English To English Defini"
+    "name": "English-to-English Definitions",
+    "icon": "https://lh3.googleusercontent.com/_frGC5ES786dS-8RFzh6YueVM6RIifoobOyyJNbtNq9EOYdA5hJy6Gjbiz6avYapdFCS7GB6OjcBT2L1Em7ro7cy6w=s128-rj-sc0x00ffffff"
   },
   {
     "id": "diojcfpekhhnndfmggknljpnfpcccbhc",
-    "name": "Dictionariez Your Diction"
+    "name": "Dictionariez: Your Dictionary, Your Language",
+    "icon": "https://lh3.googleusercontent.com/jjgC2AfogeaYImcbsrZnEUJeRiHmoLFESaIwinm9NM5Grw6g3vkE7Jqf5YwS3rgJJVGLz5JXa8PMCjkJ-SNWlcWC4g=s128-rj-sc0x00ffffff"
   },
   {
     "id": "lppjdajkacanlmpbbcdkccjkdbpllajb",
-    "name": "Online Dictionary Helper"
+    "name": "Online Dictionary Helper",
+    "icon": "https://lh3.googleusercontent.com/cXd6LfnyNmbmOY2YZJ03cmBk3MxdP3pC9iK2e-cI1gnv-rI4Bs2cFNfQ3iBn1C51Bkc3MfPwS-0mq9Z0tRhXN4gC_w=s128-rj-sc0x00ffffff"
   },
   {
     "id": "noagjioaihamoljcbelhdlldnmlgnkon",
-    "name": "русско английский перевод"
+    "name": "Русско Английский Переводчик",
+    "icon": "https://lh3.googleusercontent.com/w5uiTY0Qgxy8mDNU_Nl8X1XNiTz6C_mM6YHPycWw-0bkg_nmvElq3GNaQfNY1Ny6sn0P4Rvz1Yt-0_omSroNklAeDw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mfembjnmeainjncdflaoclcjadfhpoim",
-    "name": "мгновенное словарь Goodwo"
+    "name": "Мгновенное словарь: GoodWordGuide.com",
+    "icon": "https://lh3.googleusercontent.com/LhhBnzvdDLhb1N6T0AKPx7zOJHNGy9Gu3bENwJEaVWX-ADdiMJp91oQPBSVBrumWSC1rEmMHkQQ-UrEoCApR9VnGnQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bcjindcccaagfpapjjmafapmmgkkhgoa",
-    "name": "Json Formatter"
+    "name": "JSON Formatter",
+    "icon": "https://lh3.googleusercontent.com/kAyuA6Uo8kCc8EQJNkvj0GHetWNpbwU9ssHPf0tKbDaVddJD3FebnaZM5boUoU4_WLOOlJEVxnLoQFhPg_WuGPSI=s128-rj-sc0x00ffffff"
   },
   {
     "id": "eifflpmocdbdmepbjaopkkhbfmdgijcc",
-    "name": "Json Viewer Pro"
+    "name": "JSON Viewer Pro",
+    "icon": "https://lh3.googleusercontent.com/hKtaGwcvwnUHwcql23knxaOefeCAbDk8OgxCI0UN5gYh6s5-rVAgONyY0eiux9Dnd_AZQgAMX1nEkP1usXp_Ff_v=s128-rj-sc0x00ffffff"
   },
   {
     "id": "lpopeocbeepakdnipejhlpcmifheolpl",
-    "name": "Json Beautifier And Edito"
+    "name": "JSON Beautifier and Editor",
+    "icon": "https://lh3.googleusercontent.com/CSV60b0ghHeWi0GL7bH5OJbeuev9guIwglq7Nc-shRL7t5sKUHicK6HSSVqaXJknOB6a3bqybcfkKeD6C-qTBgsoibU=s128-rj-sc0x00ffffff"
   },
   {
     "id": "aimiinbnnkboelefkjlenlgimcabobli",
-    "name": "Json Viewer"
+    "name": "JSON Viewer",
+    "icon": "https://lh3.googleusercontent.com/d0Gw2XAqKbd91Ig3f0DJtJGd7NmQSZZKFnvs2taYd9zb2W2BDQ78Cez1e8bALBXvsbPJA1IdhC2huueY7pPzTjC4rXY=s128-rj-sc0x00ffffff"
   },
   {
     "id": "iahnhfdhidomcpggpaimmmahffihkfnj",
-    "name": "Json Handle"
+    "name": "JSON-handle",
+    "icon": "https://lh3.googleusercontent.com/8SkWB1c87M-0G71b6QSDR3lvvsT2s19t9PA8C_4GIm9dS1V5fxEXefGMy-AipXINac4q7trUbSoSWdYG5Bgt9KSC=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gpmodmeblccallcadopbcoeoejepgpnb",
-    "name": "Json Formatter"
+    "name": "JSON Formatter",
+    "icon": "https://lh3.googleusercontent.com/s44oJR6jZDFfJUQvq1OyaeSrk0kPbDat_yWMxTcx8CFDg_oJIJd55-rD3_W1fj0ebHKkJ7PWkwX2uqMIu0LHlCKTiQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gmegofmjomhknnokphhckolhcffdaihd",
-    "name": "Jsonview"
+    "name": "JSONView",
+    "icon": "https://lh3.googleusercontent.com/8hRRsq-5RSeLvRv5NAGrQAmrPXTg2vnyYjNIdXM9qhbNCUI0A09T_J3wsFpsSBVsRcRs0-YSVT-gKc6GPqoWwpBPZQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "acacmjcicejlmjcheoklfdchempahoag",
-    "name": "Json Lite"
+    "name": "JSON Lite",
+    "icon": "https://lh3.googleusercontent.com/Ti0BC8pWBJ5Tmj2XJAHNKqbJzxftCEnrEcdNWQVpN8D6aYcK7kuvDy-vAk-YUYL232FSDphYepHgEAT1BnGP2taCNQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gbdbademeighmnbliehmnoifmabbedbp",
-    "name": "Json Viewer"
+    "name": "JSON Viewer",
+    "icon": "https://lh3.googleusercontent.com/ZrcdWsgK_hR9oa152cxbi71eWiJeboDbfVDGT5ehj0MJ4fhdzSqr2gAeEa_A3oy4tKc73bfHfSx8jXhHJI0wadgfgg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jcamcakkifmbkjcfejgboieeliaomkab",
-    "name": "Json Editor"
+    "name": "JSON Editor",
+    "icon": "https://lh3.googleusercontent.com/1Avw4lattCChvbh4IAovK_KaIR0yeXiOxjHJsycwhogblbdaQGa8936oEwLa9nIyCpsGqF00mJkQ9Bl7CDm0ZWeIfBU=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jghecgabfgfdldnmbfkhmffcabddioke",
-    "name": "Volume Master регулятор г"
+    "name": "Volume Master",
+    "icon": "https://lh3.googleusercontent.com/KVGRNfHgQNl3RtCAnq4bTHM23198SfyCES7LnrxnSp21B5xQ2WKRLpIMxaPSYYH0Xp99auk5OQQ6QHjpOL3OvqUi=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ejkiikneibegknkgimmihdpcbcedgmpo",
-    "name": "Volume Booster"
+    "name": "Volume Booster",
+    "icon": "https://lh3.googleusercontent.com/j_wPyWvTJUCcKSGiSqOIjNjkNNJPxap_oc_sB8neApdmIYG6QfLHwDvPrSASKWypIIRHxbfNZV9wypl_Y8Nxt2obz8g=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kjlooechnkmikejhimjlbdbkmmhlkkdd",
-    "name": "Volume Booster Increase S"
+    "name": "Volume Booster",
+    "icon": "https://lh3.googleusercontent.com/7VC3G93rlcEZEhtqKy-qvmYFagURemBYd1E7kkyamPoOBhFS-z5-qrNn7tyQJvzTrC_6LaPBrdXsVyB_xQAoUYNPqA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "acglggcafiilnibeknihgglelgfafifo",
-    "name": "Volume Control регулятор"
+    "name": "Volume Control",
+    "icon": "https://lh3.googleusercontent.com/duWVjUJUWIlhIsm-VY-52iXTtJ4sIKriomNU979vVyvSsA_dG-cv_asLa8faH4IWjCK_3wCNItSTz7R0IO89G5dcBA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "nmigaijibiabddkkmjhlehchpmgbokfj",
-    "name": "Sound Booster Increase Vo"
+    "name": "Sound Booster",
+    "icon": "https://lh3.googleusercontent.com/5J3yPaSyBVsE9oQM3ilrteZ5l0RM1PdP1X9-6Ktn4h0psTQkwHmUo3cYs9dduGWv4zFtSjqq3NeSd34DgKh_MAzG0w=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kcgedkeajhbfkackhppmenimpfpnopje",
-    "name": "600% увеличитель громкост"
+    "name": "600% Увеличитель громкости звука",
+    "icon": "https://lh3.googleusercontent.com/tiuM280dL17y4aXKrxAEMVFMpvVrcX9Z2eVGXSJuQtPtLIZHQUpz14HFgSGpvwheAwIW-37zlUL-y8b1tYgK1lBECA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kedfglpbemacpmmdhkhmichimibbhnge",
-    "name": "контроль громкости"
+    "name": "Контроль громкости",
+    "icon": "https://lh3.googleusercontent.com/ZqgIfuKJAd8UnE7N2FKAp49xhZOJQToOzak6laP2MBwQrWsVHZanANq8sCHMd1uj8HaPX-4vbd9LJCCBdZaYsSpojWY=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bocmpjikpfmhfcjjpkhfdkclpfmceccg",
-    "name": "Ultra Volume Booster"
+    "name": "Ultra Volume Booster",
+    "icon": "https://lh3.googleusercontent.com/jbtDAFG9ZwLk5E1zNEdSbzM9Gk8WF0EjilmcX3Pfg2XT5JMn26r8YJR20AX8QkIx5YAWY7eVrvbWmEVA04isfKZn=s128-rj-sc0x00ffffff"
   },
   {
     "id": "oajkjlibcgpgkfmaolaadfnncndfjoko",
-    "name": "Volume Up Plus увеличить"
+    "name": "Volume Up Plus",
+    "icon": "https://lh3.googleusercontent.com/vc7-I80bkooU2428Ztnxp8RhLVUvyUH7Pap-L6Hof6xUnLmpA5hXanEGfshtRpQJ0aaEnj5nxy7TFx1GyrcixWT2=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hnlfnonibbbggmlaacojkhhppaonibdp",
-    "name": "Volume Control For Google"
+    "name": "Volume Control for Google Chrome™",
+    "icon": "https://lh3.googleusercontent.com/4PqMHeTBRwBCaMUIbvdNKNWBaVG7bX2meoaCuthi2Vi5xoOhtCFdvXkD2rnkaY5jd4h_fC5R_k65gvepmoxctAIS3Q=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kgjfgplpablkjnlkjmjdecgdpfankdle",
-    "name": "Zoom Chrome Extension"
+    "name": "Zoom Chrome Extension",
+    "icon": "https://lh3.googleusercontent.com/EtDJ1WOrJu9vJxqUpk67gAWSsvf7llrIu3UIxOVFQMS6BIxdN3fKOe0NBBHDxVS6G5ov4yxKcxAELtkfhBLMlO7r1Q=s128-rj-sc0x00ffffff"
   },
   {
     "id": "lajondecmobodlejlcjllhojikagldgd",
-    "name": "Zoom For Google Chrome"
+    "name": "Zoom for Google Chrome",
+    "icon": "https://lh3.googleusercontent.com/ylB4a4rDzaAN_2ymc4h-8Joq3wIGM4EQQ3DeMLvmyvSrRz7CALxxZ7wM_G1s84oo6-vcSgV5hpZi5PCHutYsHCG1=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bcdjhkphgmiapajkphennjfgoehpodpk",
-    "name": "Zoom Page We"
+    "name": "Zoom Page WE",
+    "icon": "https://lh3.googleusercontent.com/1Y1w-ph1U5GO0U86j0h842hoYhYbpA_RRQcanuzck1pysqKaUn0q4JAKCsECulrFw2VjxK1L-7bDskLnRhYotkS2Uw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "nlloamlgdioincflcopfgkbikjgaiihg",
-    "name": "Smoothzoom – Quick Page Z"
+    "name": "Smoothzoom – Quick Page Z",
+    "icon": ""
   },
   {
     "id": "ochhcgamjcnhpaekcckimgofnedofplf",
-    "name": "Zoom To Fill увеличение в"
+    "name": "Zoom to Fill",
+    "icon": "https://lh3.googleusercontent.com/5hq6igRBdmevYcxezL8DT-mowtz4_CLkoxlVen8FNSo5Ir4AxGMFRIxoE1bU2psnDqxNTyhFOa5aSNqgByUk0ixJPA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pbgidoglkjhfgjhalbbiiahdlokjcplb",
-    "name": "Meetings Page Auto Closer"
+    "name": "Meetings Page Auto Closer for Zoom",
+    "icon": "https://lh3.googleusercontent.com/jsLMoLP7nvlVCu4_fRHhA9PnBr_HhFDletJR1473Or-YuSPWIBlM9TRthLtF4BM_QRj5r8wwrTIBKm496w1NUAmH3-E=s128-rj-sc0x00ffffff"
   },
   {
     "id": "appjbedfhcmpknanmbndpojcllfaemal",
-    "name": "Zoom Closer"
+    "name": "Zoom Closer",
+    "icon": "https://lh3.googleusercontent.com/HqpTK5uW2xeIDIffhLINjZmB25Ui2WtFOfTpH7iuLLTiOMHoLyTqD_RVxAc-cC2iOGxSj7EIqZjfkc6XU1kbeF6F=s128-rj-sc0x00ffffff"
   },
   {
     "id": "imaacloilmlcplokcefgoellkocfcaen",
-    "name": "записывайте встречи в Zoo"
+    "name": "Записывайте встречи в Zoom, Microsoft Teams, Google Meet и других",
+    "icon": "https://lh3.googleusercontent.com/RYF4jciyIMcxcKIkLny9KmmDGy62wcHfkIvCTC_fBn-yCgrq-JP2rfpeYXHtD66Gf37zs8WU36SL99E3MR2HHuty8w=s128-rj-sc0x00ffffff"
   },
   {
     "id": "injnkmmecojnjiiojgfgonihjpejklik",
-    "name": "Zoom Contact Center Cti E"
+    "name": "Zoom Contact Center CTI Extension",
+    "icon": "https://lh3.googleusercontent.com/rVuny3cNgd8jK5a4upFR9ebUGYHEUZehpK0KF_swTkM_9QnfRZ2mX6Dw-BbNCmuTMshUwhA2IwxP0nLS2Zmh-rppBgE=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jmomepcgehgfoimapeoinphcloinjfpb",
-    "name": "Zoom Block"
+    "name": "Zoom Block",
+    "icon": "https://lh3.googleusercontent.com/Xtf-5RXMFy9t0f7wHFQL0mWVKsTL7_-LpghcjSnmm-jxQIy9_Mr3gK620BcZEzonE5QAJVhe0YV5IHV82bSFhSLW0Nc=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ndidogegapfaolpcebadjknkdlladffa",
-    "name": "Notes Keep Sticky Thought"
+    "name": "Notes: Keep Sticky Thoughts in Google Drive",
+    "icon": "https://lh3.googleusercontent.com/NLAWJSddrGM2_0xQbWBeHAUAU1ESwS2fV_un9lqQxenZxV-P_w_q4FyR1YVcTJPk34JhhH6kZrDRmImTccBGHcHTcQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "plpdjbappofmfbgdmhoaabefbobddchk",
-    "name": "Sticky Notes 38 Super Qui"
+    "name": "Sticky Notes 3.8",
+    "icon": "https://lh3.googleusercontent.com/TG0leaz36kxWcIHY5PeKV0r7sxNSYATJ6eE_RJLOAk9mHYUXuy7j3QQiksdSgEOsFowuBCEeAsDCB_YxCl44cxVg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hgdpdmomcjheafojdkbpnpbbhpcidnci",
-    "name": "заметки онлайн"
+    "name": "Заметки Онлайн",
+    "icon": "https://lh3.googleusercontent.com/g5T89cXliO6NZDmhP1HQ02AXK0AstVfkU7OCigfbLCD3ExAWcTQDEUaqfM0dnGLED7h7PWJUv4vrt9_jwnAvJUxkggQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "goficmpcgcnombioohjcgdhbaloknabb",
-    "name": "Note Board Sticky Notes A"
+    "name": "Note Board",
+    "icon": "https://lh3.googleusercontent.com/SES8o2raQBYg8yaQkaB6cvOcpcPzOzTfUQNW2idrUj6KsDPDCkp9znqcKYW-qq6_isCrdnITkar0Il0OEG0myZ8u=s128-rj-sc0x00ffffff"
   },
   {
     "id": "omjdheidbhoghpfdnndkgoelfiogjfla",
-    "name": "Page Notes – Sticky Notes"
+    "name": "Page Notes – Sticky Notes",
+    "icon": ""
   },
   {
     "id": "lnfempckkegmaeleniojhjplemmebgfi",
-    "name": "Chrome Notes"
+    "name": "Chrome Notes",
+    "icon": "https://lh3.googleusercontent.com/H-t0xBRuQD7WxHaNATWIDsvxvkx6GjZkBsoh1ygcyJ1yklAqz6ehNrTHeSDlfSFOBNV14XjwxprDNoIuaG1hcDPDzA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "pdodkfldbainhjdjkakibmllhbhfoeak",
-    "name": "блокнот онлайн – стикеры"
+    "name": "Блокнот онлайн",
+    "icon": "https://lh3.googleusercontent.com/rSw7Zmi7uvpH9nnp-xD4aCa0YJjt0MybfJD5Rdu8c-oZBGH8SnXbFkibXG4Dp1sc1caNu_e8_dWNYVBQVJ6AAkI4MYo=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jfjkcbkgjohminidbpendlodpfacgmlm",
-    "name": "Simple Gmail Notes"
+    "name": "Simple Gmail Notes",
+    "icon": "https://lh3.googleusercontent.com/0gL92w059GxWsuLVqqCuhPNZ0pvMOeodXbcE05N6toa_xkmEjMmeaid_h_yLO6YEvvMigoK9LqJDkg_xjF9cHTCHyA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jnajbdnopbhnfjjhkpichjdbfobeokjh",
-    "name": "Side Notepad заметки запи"
+    "name": "Side Notepad: Заметки, Записи, Блокнот и Список дел",
+    "icon": "https://lh3.googleusercontent.com/pzN9rfC9Hqxhg3-TV6O04oOo5yLq4jrLzcm5R9sdiJ_DDf1bTJHk1uGd4jm1nki9SFNJlTa6FYBRyIehMxWzyI62ZA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dfiojogmkjifkcckhabcedniponnmifp",
-    "name": "заметки и еженедельник"
+    "name": "Заметки и еженедельник",
+    "icon": "https://lh3.googleusercontent.com/C1kF6N2B3dwK2CjYQJs4HWRP5rSs6oAs1gUwDJ57eUSn1XyI49EZkfA7-vvHgYOJakYrM9S58AMELVs2t0c0M_TW9g=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gighmmpiobklfepjocnamgkkbiglidom",
-    "name": "Adblock – блокировка рекл"
+    "name": "Adblock – блокировка рекл",
+    "icon": ""
   },
   {
     "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
-    "name": "Adblock Plus бесплатный б"
+    "name": "Adblock Plus",
+    "icon": "https://lh3.googleusercontent.com/nnMASpwJY4U5ukhKl4PfIdaOpuKXNrVvfIc9n8-NJOJIY7m3RLgsazN6ATmDkXyaMll8zADOXuBR574MwC7T71kJcQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dgjbaljgolmlcmmklmmeafecikidmjpi",
-    "name": "Adblock Ad Blocker Pro"
+    "name": "Adblock Ad Blocker Pro",
+    "icon": "https://lh3.googleusercontent.com/Hj3MAmMuFzuzVmt3IEmvDOk_ooYtzlholbA4J80lDR4AI3Sw7fIBxRDM0v9t9TFvWzTD_hH-IyMfT12g4bpELWLh5g=s128-rj-sc0x00ffffff"
   },
   {
     "id": "lgblnfidahcdcjddiepkckcfdhpknnjh",
-    "name": "Ad Blocker Stands Adblock"
+    "name": "Ad Blocker: Stands AdBlocker",
+    "icon": "https://lh3.googleusercontent.com/N9pPZRS5GT8JKtGT93q8pmXcynJpR2S0Jf48gndHHNRTBr8IMseByrjk4X6VUetjiJFzaCCIrBx2mzd5v3EE7OGINw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jpkfgepcmmchgfbjblnodjhldacghenp",
-    "name": "Pie Adblock A Powerful Fr"
+    "name": "Pie Adblock",
+    "icon": "https://lh3.googleusercontent.com/TQpkNRK3eYDNsgCRzekAFPwJwOK8Y5YLLICXyj7tgSitMNwAiUdEe7ehoR3qpYK_q6t5-yfu_ChZMl3J25ZBkMbAxQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gekdekpbfehejjiecgonmgmepbdnaggp",
-    "name": "Total Adblock Ad Blocker"
+    "name": "Total Adblock",
+    "icon": "https://lh3.googleusercontent.com/-uGKiLap1UIpJrrWBt1ZIaA0GAnV-_WT6UTIww7pV4aBFRCLuqvm0RUcyV7mwF2GUBmUddRsnrKjcHuyBBlqyTLX=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ggdpplfehdighdpleoegjefnpefgpgfh",
-    "name": "Adblock Max блокировщик р"
+    "name": "AdBlock Max",
+    "icon": "https://lh3.googleusercontent.com/y5DIrMS1i9yjQxbhI6yYT5J9zPQTDthC1xYHYWNOXeRUZ5VSshIkI2EegD8gwolU_qKsjlKF2bA6k6cn9SU5AiE-6wU=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jiaopkfkampgnnkckajcbdgannoipcne",
-    "name": "Adblock Unlimited блокиро"
+    "name": "Adblock Unlimited",
+    "icon": "https://lh3.googleusercontent.com/uBa8s580nDf7XH5Mh3-FvnAmeeu3lIvRbQDHpuGZRnrCHxAYqx9vg91MRsSz9Yn4jqv66iC_wmxln6mdcCJfcbJrIQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jpefmbpcbebpjpmelobfakahfdcgcmkl",
-    "name": "Adblock For Youtube"
+    "name": "Adblock for YouTube™",
+    "icon": "https://lh3.googleusercontent.com/BUTy2zzWctZIB6S2J3X7INedgqH2VQYPsRP9RyGbCHc2Wbycu5A9iDvRM6A8tpFIYD_VHO7OGRdF9On7as2NNtdu=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mihcahmgecmbnbcchbopgniflfhgnkff",
-    "name": "Google Mail Checker"
+    "name": "Google Mail Checker",
+    "icon": "https://lh3.googleusercontent.com/yU7GY9CQuLGhfWYrqEJnSTIWl6siNQvzWp3fbpxqzQkkQkurDhpJTM6oHpyu16rT3X__kD6uS3TsRtaBbDRsZVOF7sc=s128-rj-sc0x00ffffff"
   },
   {
     "id": "inojafojbhdpnehkhhfjalgjjobnhomj",
-    "name": "Temp Mail временная однор"
+    "name": "Temp Mail",
+    "icon": "https://lh3.googleusercontent.com/Dm9Wv84AWLiX3a_VVg6d0QG2geRdBtrJ0yZdYRFlREDf5BDu0marpen6sT1tPtc6Ttf4BhmpPZAh9qafPxUL4R9iUNQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "fmjigggndbjpccpmmdmahhbbipicfjhm",
-    "name": "Email трекинг для Mailru"
+    "name": "Email трекинг для Mailru",
+    "icon": ""
   },
   {
     "id": "lpebgcnlaohcgdfhbffjajlnpifdkllg",
-    "name": "Mailcom Mailcheck"
+    "name": "mail.com MailCheck",
+    "icon": "https://lh3.googleusercontent.com/QuXso1ombMO5586NRjCzHG0Q4-3X6xt762Q3bG86hNr00MWR-wImLYViy36i2vEgt58CMgh7itsGExxvFH3zTE-b=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hcdbcahipmenkfgfpfmiodkncfkeannn",
-    "name": "Another Mail Merge Lite"
+    "name": "Another Mail Merge Lite",
+    "icon": "https://lh3.googleusercontent.com/mDW0_YxtpQdD1PeCdMwE9aVgmEtrHCjWGSPgwabOCjFFaIu0msjpeh7b6WdhVWIQ4SFGS_HksJC6IJkXcBl24ZYj=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jbjflkonkdkkobjanmbjbmnmcelbijje",
-    "name": "счетчик писем Mail"
+    "name": "счетчик писем Mail",
+    "icon": ""
   },
   {
     "id": "ldlfdhpofcjdjnljkmmhaigbjpchhank",
-    "name": "сохранить E Mail письма и"
+    "name": "Сохранить e-mail письма из Gmail как PDF",
+    "icon": "https://lh3.googleusercontent.com/GxmbyGAHKXDJj40kQuwlakgld0qu3ynSEjHobsW1zdrPHBBjWEF77nS1LloGblbYr5FOMej6UD6QFza9uGYF3PUQKg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ehomdgjhgmbidokdgicgmdiedadncbgf",
-    "name": "Gmass Powerful Mail Merge"
+    "name": "GMass: Powerful mail merge for Gmail",
+    "icon": "https://lh3.googleusercontent.com/ZOYTD4B0lPSBPI4hKOoFprVLPMlsg0YDEGZ_ZUEIeGSUD9rqIwYsjbwsDH_z-5l40SEFinGQMtIuBiGnmN2V7LyY=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ndnaehgpjlnokgebbaldlmgkapkpjkkb",
-    "name": "Mailtrack® – трекер писем"
+    "name": "Mailtrack® – трекер писем",
+    "icon": ""
   },
   {
     "id": "obngoldljmnnpggbekneikaohbeflbee",
-    "name": "Send Mass Mail + Html Ins"
+    "name": "Send Mass Mail + HTML inserter for Gmail",
+    "icon": "https://lh3.googleusercontent.com/yWWq1GEpRmSxdrTpJAX_aI65EulmSuympRqSfkFK3qhv0XyAh6YZ2ZHnSl3U3zvSQYGUOh0JGQwodG4qjFWGBQSX=s128-rj-sc0x00ffffff"
   },
   {
     "id": "elicpjhcidhpjomhibiffojpinpmmpil",
-    "name": "Video Downloader Professi"
+    "name": "Video Downloader Professional",
+    "icon": "https://lh3.googleusercontent.com/s-86QIqiZeS3NSGiw95oJAm9ExGyUat2oF3hqOu4xVypfn18HX6LYNwJUtKoSYFRtf4-qBSvBYr41ZZWPqbh5Hh-xrQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bongjkoajofkfpofginnhecihgaeldpe",
-    "name": "Video Resumer"
+    "name": "Video Resumer",
+    "icon": "https://lh3.googleusercontent.com/xOmTiXf0DNFHttaSKzLjLGR3V_bxWMZWFw9tkA0q6ldi4BkxGvADqOeI3um4OlkudL4N63EadbrucB8qFt8lIjUb=s128-rj-sc0x00ffffff"
   },
   {
     "id": "gmehookibnphigonphocphhcepbijeen",
-    "name": "Picture In Picture Floati"
+    "name": "Picture in Picture",
+    "icon": "https://lh3.googleusercontent.com/VsmtuTdbx9OS13wvMsn1sqtMmEZ5_yoIqSAWMWz831TRmCKJHP-mvqMsgN_ynznN1O3WXWxU6t3h1CgXasVXIGFwtHI=s128-rj-sc0x00ffffff"
   },
   {
     "id": "cafdfogfbjpgdmppmdchgcggdepfbndo",
-    "name": "видео трансформер"
+    "name": "Видео Трансформер",
+    "icon": "https://lh3.googleusercontent.com/ADnnyhCqcbEvYJzMUwp5xbP8ES8ICA_dQQLyq_NpAuiWhaZyiGk4l1o1BSZRQ1nufslVO0V5mDfRrFWWMmhJJxxQeQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "lmjnegcaeklhafolokijcfjliaokphfk",
-    "name": "Video Download Helper"
+    "name": "Video Download Helper",
+    "icon": "https://lh3.googleusercontent.com/0DxYNhw8FVUzHuji-pUcAbb1q4KoSDWACVgkh21SJdsP7S8utP-RA7UWxJ_HRO8xkGxcBQJw7cxxahJdWfa4Y1wo=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ojifdhbgdcomkadeelhedgbcldnbmbfd",
-    "name": "плавающий видеоплеер для"
+    "name": "Плавающий видеоплеер для видео Youtube™",
+    "icon": "https://lh3.googleusercontent.com/WcS9oc4MsYwyhiEU467-BDRqlxgwj8JW1BOmrm0jMznTnyLmoDkqQveYBSetQ6Pd1zusDkdNmjSYADf-qPIFyo_enQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hkdmdpdhfaamhgaojpelccmeehpfljgf",
-    "name": "Video Downloader Plus"
+    "name": "Video Downloader Plus",
+    "icon": "https://lh3.googleusercontent.com/klFgents72UjG3Gnl_3IZQv4QJI-xfRhr5i43UBRbRB9y3JyueDK-J19JauQ8femhs-RrndZLd1VBhje1BvrW9L7he0=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mcodbccegmndmnbpbgkpdkoleoagjpgk",
-    "name": "плавающий плеер для видео"
+    "name": "Плавающий плеер для видео Youtube ™",
+    "icon": "https://lh3.googleusercontent.com/lCoQf6OR4NUNEcdHXYayFzZxojQ8YhAlydsWeynM6MdTXyzte3L_Pst0aI_xrvwXG3-Dele8XTBrZgrelGQjghqF=s128-rj-sc0x00ffffff"
   },
   {
     "id": "ebeglcfoffnnadgncmppkkohfcigngkj",
-    "name": "Videoplus — бесплатный за"
+    "name": "VideoPlus",
+    "icon": "https://lh3.googleusercontent.com/18k37AoCgOJzM-R8mzDBj6raOwqcb6asPV0UyaXa8M5OqzZFAzXQedo_IOd6duQg2msmKhqQuuTiHbdgGD5VIgZs=s128-rj-sc0x00ffffff"
   },
   {
     "id": "hebjaboacandjnlnhocfikmaghgbfjlp",
-    "name": "Video Downloader Pro"
+    "name": "Video Downloader Pro",
+    "icon": "https://lh3.googleusercontent.com/rMH42XJpANeSewzCUYwB-ihKCpEa7W5j_r5GJmt5NxXazwqYZCnembPNtYFjxtqQCxDyEuo9JD3aIoP01dLGRL8ONw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "effdbpeggelllpfkjppbokhmmiinhlmg",
-    "name": "Better Lyrics Lyrics For"
+    "name": "Better Lyrics (Lyrics for YouTube Music)",
+    "icon": "https://lh3.googleusercontent.com/VSighzHvGTt1P38K_TGfYI7U2YWD6K06Z5RP3bSew1nALgy7IKE9Ms_5O-ViSC73Gy4W0CZFyOEJUE8SoTPzCLxg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "mfgecbliilfimjghneojngcbificbdpa",
-    "name": "Youtube Music Beautifier"
+    "name": "YouTube Music Beautifier",
+    "icon": "https://lh3.googleusercontent.com/wWkUWKjBGTyD8GC_-AS2LUt6yZRyXvtRi4yivJ9OruADV-1h7fKEfF2DGpBkBFyB5rY-woHKE8psJkFODJdZajeK=s128-rj-sc0x00ffffff"
   },
   {
     "id": "abbpaepbpakcpipajigmlpnhlnbennna",
-    "name": "Music Mode For Youtube"
+    "name": "Music Mode for YouTube™",
+    "icon": "https://lh3.googleusercontent.com/0jZ4OZjTIuuRwFX5DEmGkVeg0nHexj5sHuw0bddDzLmaYKAu3wOGuGqjI3xWrkmWo0kFwEjSBvByNXwBdF2urJNi=s128-rj-sc0x00ffffff"
   },
   {
     "id": "dpacanjfikmhoddligfbehkpomnbgblf",
-    "name": "Aha Music поиск песен для"
+    "name": "AHA Music",
+    "icon": "https://lh3.googleusercontent.com/EeVjECrFNNtooeDsbmf55m0eCL8KfU_tXGNRNTrGcoesa-gq4S17RmH_3T12hcTrRUguouotrlvSHxdcHKUZKLA2bA=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bgfiegdbajagebogifobkhambpljbfmk",
-    "name": "Themesong For Youtube Mus"
+    "name": "ThemeSong for YouTube Music™ (Enhancer)",
+    "icon": "https://lh3.googleusercontent.com/np5oY8kPwI8sMmTgRDJnW21qPzfyhIoFG8UgGW_RyKPCWXa8Yw7VhK42DMPPpZpgfJKOkY2Ey3DeJhbdmnIP1ATj=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jcdmcpefbebkldopabclefjaggejocff",
-    "name": "Synq For Spotify Youtube"
+    "name": "SynQ for Spotify, YouTube, Amazon Music, more",
+    "icon": "https://lh3.googleusercontent.com/vABjQ9JCYq1eoTUVkfGI8f-KyXmr1kuitkEqAtZjqIhL2YL0EscMaLmCrKX4x-4-HJctnIIqOOVjltYRIvn-xftmToE=s128-rj-sc0x00ffffff"
   },
   {
     "id": "oiogbllclbhlmgpjngfnjmnokkiplgnj",
-    "name": "Listentogether слушайте м"
+    "name": "ListenTogether",
+    "icon": "https://lh3.googleusercontent.com/cPedJhMmDtB_NWLdPaoAMvteTkRspf_ZALyjGRDngiHTvlloJYvj6CXaCx2XGrb1sCpJECjncBzSxy4BPNr8EsunTw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "fgjkdpncbpnlhbdbmelbhmapblgaamkl",
-    "name": "Youtube Music Hotkeys"
+    "name": "YouTube Music Hotkeys",
+    "icon": "https://lh3.googleusercontent.com/uHYjGfX-7AYpy0aTv8HghLqYkt6T-6OQAlzbXcmPBzhMAFwkMHaMKIABgaMWbwzvr8yufa3as_cNUQkB0scyhJrYZQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "fjapjofdfgojhkiabfdfmhgpfbepjhck",
-    "name": "Music Retuner"
+    "name": "Music ReTuner™",
+    "icon": "https://lh3.googleusercontent.com/hywv_8EpTS8B_QMGEmQs5quAXtjqkiUEiY4HcnerQhX7jtaQdplD4pIV7ZxzPXvDTv8H34reAdCZOxKybvRkxq84hg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "febckhheheicjbhjcbippbgjdcblbdhd",
-    "name": "объемный звук для музыки"
+    "name": "Объемный звук для музыки и фильмов",
+    "icon": "https://lh3.googleusercontent.com/Yzd4iJiPlCdC8U3VLhiz-R9bPtBSZRdapqHk7uc6Utg9RJreUKCuMYguQrxAo91T_FIOvBUDeNL21x-YSKuynJD-=s128-rj-sc0x00ffffff"
   },
   {
     "id": "eggkanocgddhmamlbiijnphhppkpkmkl",
-    "name": "Tabs Outliner"
+    "name": "Tabs Outliner",
+    "icon": "https://lh3.googleusercontent.com/ZMndCIPZRQvsVB4jG_JAIFUD2VqMG9Jc_rt4Cir1-nHdVRn0dFXF3tlgTRQZQhE3HrzUgC6bZdd7ynRe-5-Vh_xB=s128-rj-sc0x00ffffff"
   },
   {
     "id": "epjcnbdchmflcppaajkbckidicdmpmnc",
-    "name": "Tabs Magic"
+    "name": "Tabs Magic",
+    "icon": "https://lh3.googleusercontent.com/snY2zPoq-4Z1AmFWTw_PmTQhHBVCuOgTRci_d6aLcNfBb0SBCFsJ3d608aOY0ijIr9L_6nl-j2xtttvZ6g13PBnrhg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "edacconmaakjimmfgnblocblbcdcpbko",
-    "name": "Session Buddy Tab Bookmar"
+    "name": "Session Buddy",
+    "icon": "https://lh3.googleusercontent.com/zazW2wMEVcOpHAPq-MqRI_7aq6Oy0nqz5BT5QkySaxCqwSfSv1rl0EwYCSMpcWoMJzJcm3e6yDNtPWNq7xO7CdFuFQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "efobhjmgoddhfdhaflheioeagkcknoji",
-    "name": "Vertical Tabs вертикальны"
+    "name": "Vertical Tabs",
+    "icon": "https://lh3.googleusercontent.com/zF0WmwIhkYIsXqBnEq_XndQisBhc878r3K2UCHlLy2_CSIcWiU-JU90VaD1lVLeP9WdU2QaZTLh8LLMuGf-ZQ2WivQ=s128-rj-sc0x00ffffff"
   },
   {
     "id": "egnjhciaieeiiohknchakcodbpgjnchh",
-    "name": "Tab Wrangler"
+    "name": "Tab Wrangler",
+    "icon": "https://lh3.googleusercontent.com/249Hl51K94iezW8HV1G9iTAUjfsTgIdHrxftaGkfmI8S6xoxoGQhwbiOwVUlL4A9NN2XWU-JzVMDkMYjgonRrvkGdIg=s128-rj-sc0x00ffffff"
   },
   {
     "id": "kcbljogompapnbbkihihijccgndjflda",
-    "name": "Button Restore Recent Tab"
+    "name": "Button: Restore Recent Tabs",
+    "icon": "https://lh3.googleusercontent.com/76nbTLi2aWungNKtI-TxF0F1oS5zDhQ9T4AYdCMNfyjpQ-ebvcZX08HQo04cQKetViRCHae6wDTggB36soYkbCjbHw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "cobieddmkhhnbeldhncnfcgcaccmehgn",
-    "name": "Clut Cycle Last Used Tabs"
+    "name": "CLUT: Cycle Last Used Tabs",
+    "icon": "https://lh3.googleusercontent.com/mwRcwfgUgAVd2qzibeq-YbwgAyNsx2VplshqNpUa3fvW42nJMfcr2gyNIVu1g4Fdz0zOCYz7e9AIoV0A7dU6rUQ2sEw=s128-rj-sc0x00ffffff"
   },
   {
     "id": "iiojfifkpjkhcdjfgekmfobhfdohlecg",
-    "name": "Tabs To Front V2"
+    "name": "Tabs to Front v2",
+    "icon": "https://lh3.googleusercontent.com/HIdba00Wje85ThgjA2AHKtTCkXHnJh_X0i-f9OObO6rXDwJsaeJzjFiqRSXXR0fciluRKteLC-CTPDkY7MIjuROHF84=s128-rj-sc0x00ffffff"
   },
   {
     "id": "bboielpmccpfkhggghgpimeblacofahc",
-    "name": "New Tabs At End 3000"
+    "name": "New Tabs at End 3000",
+    "icon": "https://lh3.googleusercontent.com/pyTI-Mx_eLWMewEUSK-ftJupOhVetUC70qPa6cb3JJqGxTex4GoJHqZwpy-1cXS2LJlcI41Nu8nsXMEZqVVl6w-Toq0=s128-rj-sc0x00ffffff"
   },
   {
     "id": "jnjfeinjfmenlddahdjdmgpbokiacbbb",
-    "name": "Quick Tabs"
+    "name": "Quick Tabs",
+    "icon": "https://lh3.googleusercontent.com/4NgwOgOkJd6Cm6CqVXEKPR1gyGVGZKhqscdgr9u4n8eoCqCj7LX-5QVk2KK6IOYdzB_PEpVBGrTIHVov1KtgOddZ6k4=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ibplnjkanclpjokhdolnendpplpjiace",
+    "name": "Simple Translate",
+    "icon": "https://lh3.googleusercontent.com/raXVd3563vuvNxGpZ9elq3Z5kmLIO5jzR_DxyGcgt-o6ArW1oylCobsHSbyt9LOn6u13NP_Q39G-Zo0Mq-V8TAkwV7I=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "pfoflbejajgbpkmllhogfpnekjiempip",
+    "name": "Переводчик",
+    "icon": "https://lh3.googleusercontent.com/jGumggdnn5GhW6LAocl2OPeuR9LVUoh1Kkv6YaXVDeQVkv7dqcatH11z53AqqAPwqGgCa0l_eFamSNfdERmmY4KJMQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "gkkkcomfmldkigajkmljnbpiajbpbgdg",
+    "name": "TWP",
+    "icon": "https://lh3.googleusercontent.com/aWq7yc6xYimkkTGg30H1Q_6r-a-cQp10fe295JJwoJAjwMGogau-IEea2CbfhWlAyF-3tdQpRoTfwmNNfUMbOjBBqg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "khepfpojckhooicloeheemlhcljpjcjg",
+    "name": "Tab Translate",
+    "icon": "https://lh3.googleusercontent.com/WKnki6YGksUAn6M87cXgwuNp_WqjAChxrohRIUHT8ZMeYVp45rdQd3OQ55Td-4p2ID9lP_PmhfNDMD7gic7LZzsLCw=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "elpmkbbdldhoiggkjfpgibmjioncklbn",
+    "name": "Translate",
+    "icon": "https://lh3.googleusercontent.com/ZceSEFXwAzndgBaT40FtFoVHDtkTzDEiiJyYsg5iWDl3uh47NOInLU--S6lGFf2BrlBXdlUafZJxAQeQx_yI4AiYrEQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "pjbgfifennfhnbkhoidkdchbflppjncb",
+    "name": "Dark Mode",
+    "icon": "https://lh3.googleusercontent.com/IGW7qHAY7G7WGxvkOOijqMsr5HdQzb79qI7sJE_ayNWC2GWPpotN4gtxr-t6yM2F6ibhTqTGvPb2EVD8G3TzNRuMkA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "akpkoodohacdmlddblgnaahbbfjplcig",
+    "name": "Dark Reader",
+    "icon": "https://lh3.googleusercontent.com/QKlX_C8ndyIV0XSN_ifP2zFRPqymF6WysGBa3w-mOfPBrCc4EeAxAWIrLWcbMoKjqX83vPzcjXlOIA-zktlZPcq3vg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ljjmnbjaapnggdiibfleeiaookhcodnl",
+    "name": "Dark Theme",
+    "icon": "https://lh3.googleusercontent.com/U0E12QEtJCosNl18LeqWRmyaZRFvSMFxUTwwRt5s9TU85Y_DpSiqSuCBk296s407FRHxUCr8j_gvr9NgEl-oFw1h6jU=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "pifalnbglchfojkfmechjalgbjoodlpg",
+    "name": "Lunar Reader: Dark Theme &amp; Night Shift Mode",
+    "icon": "https://lh3.googleusercontent.com/wD3Rfhz-vRY1cEUpV9TCFETnZIRl3pbPu3NliLhb0rijU-QZhXBHyTJ5krkRJfsxF1GJssH06aScJTTtxUr2P_1ZXw=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "eiionlappbmidcpaabhepkipldnopcch",
+    "name": "Dark Mode",
+    "icon": "https://lh3.googleusercontent.com/QSOwhcrhqOSRCdQdY1TulICi4qyH7lk1Jp5vV4jjR8abdYgbaJmP5u8HJgQScmmxzSLjvafZRf3bv2WXVhL4pou2-w=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "pdpfhanekfkeijhemmfbnnjffiblgefi",
+    "name": "dark mode — night reader",
+    "icon": "https://lh3.googleusercontent.com/MQVmyHNspWjm_IS44u58EkiRNjLS3o-9D-c43MbVV"
+  },
+  {
+    "id": "omfeeokgnjnjcgdbppmnijlmdnpafmmp",
+    "name": "Dark Reader for Chrome",
+    "icon": "https://lh3.googleusercontent.com/-JcP9NcJqY2QnIOQx6Arf-R3--RMr_2xtjYf25R_o34DNby7HDQiZxz4i4jXFUGBFEOYjKPtpXJsNUnBgCDxC5gN=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "iejkjpdckomcjdhmkemlfdapjodcpgih",
+    "name": "Proxy Switcher",
+    "icon": "https://lh3.googleusercontent.com/333MrizTfgxbVj7Vf348FDoOnDvUcJojCYyOg7P4ICgunYtwvKcmvn7MPPPd4egCyaoOD_J4ROeGmeBS67LqqYwRfpk=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "onnfghpihccifgojkpnnncpagjcdbjod",
+    "name": "Proxy Switcher and Manager",
+    "icon": "https://lh3.googleusercontent.com/9JXImLogFEFil7Qx4_qBCtehFqb-cP7Nn4p66PlRafT9QcZ39eKaPXr-t1LeU-tJWz-iZCACqQC7F_8GZV97S6e2=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "lgkgpmoglpemohmihphdaljcjnfkndoi",
+    "name": "Best Proxy Switcher",
+    "icon": "https://lh3.googleusercontent.com/aURipGzqEJ6UsdLWrxC5FB7ztwjZvvPmbMWS3H4xE6ef4pYkB4RShq98k6E_xJBG7MdcsvnSdN0j9gah4HOFAzQQMg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "icpgekloenpkdgbbjnmjddbcmjglflkj",
+    "name": "Переключатель прокси",
+    "icon": "https://lh3.googleusercontent.com/-9eRflxJlJAnSPWexNds88O7YYbnQUP8QyWXoSJkU-9cJnstri2R4uD-98Bu7Ro3HftO17YVP5GiF84hcYPj5LYA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "bapeomcobggcdleohggighcjbeeglhbn",
+    "name": "BP Proxy Switcher",
+    "icon": "https://lh3.googleusercontent.com/5AKqKed1g7FBI8Rz1v8rGQtHsQLJn4-iOQ0IWtPzqABnFxUUFML37PII_zQFxxliFQFCq8MAhctBJsbQDhXszhTwDP4=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "mnloefcpaepkpmhaoipjkpikbnkmbnic",
+    "name": "Помощник прокси",
+    "icon": "https://lh3.googleusercontent.com/PkscN0Tmyvc2QN9fac507RxloPLUmpt0XleReFKtefpg_BLAF7w2raCsZqDcpxAlARfIRg4r2Hv9FMM6glQufRCz3bg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "gdpehpfhegefkjelaifkdbppjbhilaom",
+    "name": "Proxy-Cheap Proxy Manager",
+    "icon": "https://lh3.googleusercontent.com/2dxeoy6dXyHxtoclXW_rWzPlwB2focvO2uBoccKoHAonSYPZ5HpW1FjdrNx2Ef-23DZQexOtmRG6fZzNMUu4iwtLZA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "bcgmniaoakfcmjbhcjpknnegmfddobla",
+    "name": "oneproxy – free vpn proxy",
+    "icon": "https://lh3.googleusercontent.com/PQp5KL4AoBfQUZgOB8ZtklQlrf0uUfkx8jjJ"
+  },
+  {
+    "id": "hihblcmlaaademjlakdpicchbjnnnkbo",
+    "name": "Proxy SwitchyOmega (V3)",
+    "icon": "https://lh3.googleusercontent.com/K5HYVX05-p9McCSgsccLo9sNFrSBftTHV7CvGWhvMAEF7NKKvUr5YOFfX3E5a5LQ6xKdz4PIviOQjUkWz3E4Ebrnjw=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "hdhinadidafjejdhmfkjgnolgimiaplp",
+    "name": "Read Aloud: Преобразование текста в речь",
+    "icon": "https://lh3.googleusercontent.com/_l4UaD5Gwub2AwFZdomRpfMD2737y0Ow6k2sfVuWdm0fQ0iGSdEfhd9X77taeQ-0VM6Wi3HnpecLWUAI9uHq11TSktw=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "kohfgcgbkjodfcfkcackpagifgbcmimk",
+    "name": "NaturalReader",
+    "icon": "https://lh3.googleusercontent.com/RFFmmxqC6J54cBntSbZ9wq6w1eLgzZ8KGPAYsaOIFjYrdNJcCg35xZ5wFnOa9tMRIkDHBXYlCa8bWtDqlElEh312DpE=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "mahgnmmldchnmmdfkfcoindpgkadhhhc",
+    "name": "elevenreader — text reade",
+    "icon": "https://lh3.googleusercontent.com/BSxrEmd7do1-EopEH8GnZ_fRHsD63BiFCZYx"
+  },
+  {
+    "id": "blckodkdfiedapfpjiobdkedmocgihco",
+    "name": "TTS Reader",
+    "icon": "https://lh3.googleusercontent.com/Kwhae6j98kRKP9gMJKXRWjkVSCpSHB6Ba65i6UW-cfjwu58VBUBBV0VLJgJYqQosd4UMHB5aKhYRt61k1dKUb17p=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "llimhhconnjiflfimocjggfjdlmlhblm",
+    "name": "Reader Mode",
+    "icon": "https://lh3.googleusercontent.com/mjNiRJqOuP5D8CaaDOS16RIVEU-RWmbYf3x350qWeUZB4zfV8OqaSFlY26D1nekt9u4-tYzZQxPy1B8fClqH71fiZQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "fdffijlhedcdiblbingmagmdnokokgbi",
+    "name": "Читатель Выбор (Текст в речь)",
+    "icon": "https://lh3.googleusercontent.com/5cTkK5sqUNjPdrLrfdccUhwY2DiY5vh8dBX-15uzPO_hhDt6iFRQj93B3_23qJbjUY4ldGEvBWi0S2zfZQGLzJm3=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ecabifbgmdmgdllomnfinbmaellmclnh",
+    "name": "Reader View",
+    "icon": "https://lh3.googleusercontent.com/L554qOdvFpFk7oJTSitkW4mbOW34DrAX6ZGSo8XVm3axBbrPCxFD8cYYbLgCwCz4CtCCWoTcJlAwTCEp4_ug-N4t_SM=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "anaeokdaodomppjdibeifmcbebgfnmfp",
+    "name": "Озвучка Текста Голосом",
+    "icon": "https://lh3.googleusercontent.com/OW-oGOl7sYEgWLgoLMopRHpBJjIDi_NhTgKyQ317YUb65MakFYQgVM4_KZ7t0B9Jkn1ZvsFlt5vVjNPp7bKGUuD6yok=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "fikijclmnnepcpijbljojpdaepikaicm",
+    "name": "Линейка для чтения",
+    "icon": "https://lh3.googleusercontent.com/Zp1tiU4rYkIbfh4RX-IpLgTQPrBElwk9S1stUL-bv8sfApu-5rOb3rfpnf-H7mLRilJlf0uwb6qUvQIpyUnHXL4TFQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "fachffmaagpajehggpkaigkacdjhkkdn",
+    "name": "Читатель View",
+    "icon": "https://lh3.googleusercontent.com/bBSqkdSiXvgDgOweXIlY95AeCz52pVYev8jPcTwjak62tYP1fo9vYQasLp39dlUOsMp-tyI2aqwxsw9Rib05tOca6w=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "dhdgffkkebhmkfjojejmpbldmpobfkfo",
+    "name": "Tampermonkey",
+    "icon": "https://lh3.googleusercontent.com/zoY8FwoOqPlBgFxcmFdNSK2Q4CcLmv-gw7vTjF2KMR9cEabwBsGNrHBTEMitn0Ba6OmCVJ0NcLnFGu3N97BP8Phu0g=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "gcalenpjmijncebpfijmoaglllgpjagf",
+    "name": "Tampermonkey: БЕТА",
+    "icon": "https://lh3.googleusercontent.com/gi92Uq5ScxlMrm9WbsCN09d8KCLZ9JXgc8sWr4qCTu7EGFD9jcVAI3zQvTC-MDBBLpLO8Rbj7knyQy77YXGFghxtAQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "lieodnapokbjkkdkhdljlllmgkmdokcm",
+    "name": "Tampermonkey Editors",
+    "icon": "https://lh3.googleusercontent.com/_RlF6a94Cr6ma-J_g65IOW0Ytxn70-QbIbxCetfXCIcf_HxhNEJSD5cmLakMq2OJOfixfdAsID5HhaU_pZp9fNvDtUA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "jinjaccalgkegednnccohejagnlnfdag",
+    "name": "Violentmonkey",
+    "icon": "https://lh3.googleusercontent.com/wAjIhsb6UfVOYybA5DQBgKZ5dFx45Glf44OywmAkgcGKwaChRPpABYZq4cjlfNdt8kvxUHhIDbjgk8NTLpHl0i-EKA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "dajkeidhnophgkjjlhfopikjhphmpcac",
+    "name": "油猴插件 脚本管理器",
+    "icon": ""
+  },
+  {
+    "id": "ndcooeababalnlpkfedmmbbbgkljhpjf",
+    "name": "ScriptCat",
+    "icon": "https://lh3.googleusercontent.com/SAwxV3v76ZFiLyi69sE1zNXy5x4eQgG2Q3JqilcYRM1ZuASV_dbCU5_DNBYwq4wm8xQJMTfFTnI_gOjagdEDhpab=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "jaehimmlecjmebpekkipmpmbpfhdacom",
+    "name": "ScriptCat Beta",
+    "icon": "https://lh3.googleusercontent.com/yux_0kBU6NRrwQer4-Vh99eZxkEyKgE5p1A9JdFzcfiYoHQOMipVRGXCqULJ1SbZKjIUP9XHJvSdQNnNkMTW8-w_NB8=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "jcecflpagdbnadafgpbofkcodldfmdni",
+    "name": "Robomonkey: Extensions, Userscripts, Automations &amp; Web Scraping AI Builder",
+    "icon": "https://lh3.googleusercontent.com/-2fzYKr2lcfwSFNjKYHsjSF_fT8jjT8tnHp0ymbKq-neWdbQFTOz5J4y9SeP8OXL8gYfoTkSeN4YgEwpKA-QT_FS=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "cfkejojncmolgahkabegcdbcbmnghhcp",
+    "name": "Fantia downloader",
+    "icon": "https://lh3.googleusercontent.com/jNf1TSBChTcjbdgt2UJfblrN1rQT9w7aLYvzMpBiNKQBNwaDLpYoLWcthfr_Pw72HwcTGm34ci_bwcmu2rfyKJVI-w=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "cfchhckkobkelfckakndahnlnnjmjngn",
+    "name": "Shaper: Vibe code website mods &amp; extensions",
+    "icon": "https://lh3.googleusercontent.com/pRADoW0TXJivSicJTmqZIKRr_50KAlDIrow74N8VAgwPRZ_aAJpIJpdKHw3ac8dwnDq73bYT_yhKWlr-GFCFV5oW3A=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "nngceckbapebfimnlniiiahkandclblb",
+    "name": "Bitwarden",
+    "icon": "https://lh3.googleusercontent.com/J_l8abQyJgx7POjRoDfGaFYWFnYQNpRSy4kH5IlbwSdM-l_gZf2rJlk2NLSQTY8g-U2vrclpb0EZApHyOe6sjzbKcUc=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "gbphpnhcpemmchlfafbgbjgjpmjmppkk",
+    "name": "Bitwarden",
+    "icon": "https://lh3.googleusercontent.com/f1S1dT8sa_syiZePD92kP5uKfkFOF_RlTFm45ysNvskTbYuzxO1mXmLJ6TIMziPbeOaLB5I8ubbTwa9j2rjic8-l=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "apobpbdbjickpekiimlnpjaldcklfhep",
+    "name": "Bitwarden Dialog Tweaks",
+    "icon": "https://lh3.googleusercontent.com/V8KUcKF2TPC78V21auUGFDrq69uN-CXpKikiU9TECYGOKrTN9-tewmNxrI-dp_H6LOiJrkrkQeboNilo6EFmM7KGqQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "iplggehdmbbndlednajekcfmcokbnnlj",
+    "name": "Saigon Safe",
+    "icon": "https://lh3.googleusercontent.com/7ZwsWLvmmOO7aQPtgathgu21MBlkDtrKBSOgXD3dPnYzo3GySEgs4SFvA2nJZKke7tylYB_i7U18kfPl9uGXjPHs=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "dillkjhfajogaailaaacjfkippgcfcnk",
+    "name": "REM1",
+    "icon": "https://lh3.googleusercontent.com/787Hf_Aw49EJ9rDvR5WhS1KbvHbROLRoZp5EEgyKjHdZsfN9eY1XbAcF2m8XQswppiEz5WIANtTgkliBkIc0gIGAEXo=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "leedpmmbobncoipdjocgcbkmogekjkga",
+    "name": "Sunsetvault",
+    "icon": "https://lh3.googleusercontent.com/o2oM6E46AvwQYuZ7dfClUecFYrt166c5eblzJr5IfhKLxgtqccVsmFpFXGR25Mes7kTRuPW2gYINjWNSR6NSTqy14xY=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "kmceolpcaiebiempfkcddmmhkkjpblpd",
+    "name": "Heimlane Vault",
+    "icon": "https://lh3.googleusercontent.com/8cvKYmA3FDZoigUPdjmq9qB2xwPH8Mh2PI6EVhlWvGUzNGYaa9aITbJaDR-mjSPb69zWGqBiPue_DuXUwj1DyUD8=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "aflgjjkallibohcebggkkjdlhdnainai",
+    "name": "Dacmos Password Manager",
+    "icon": "https://lh3.googleusercontent.com/sEXyQ8-H6fa_rpmhRYpcgynzEFJN3R9_FiotxjyGugOylpGiELKkGazQIHR4LHpYGqROwzQDgwIKRN0_W-ceUF9fvA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "jnkpcamedbckemcinkojejkcolggbgbd",
+    "name": "EkamDasha Pass",
+    "icon": "https://lh3.googleusercontent.com/eFGh9KxSD89f0uD0621wHJyBsOMjR-CBf5CRtGJ22g-YA8SKzjkNPUmoujj2t_2BIXT2BuwS-v9Dkh-jVOlHE4ur=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "laookkfknpbbblfpciffpaejjkokdgca",
+    "name": "Momentum",
+    "icon": "https://lh3.googleusercontent.com/H9tXckFzG4jZjM5Ag6gvBl0dCm75uQIlextzqmubbZ4stRiSfAyRG6pna-QjMk4S5kOCeShmPMcWxlPPdKlQyDqW=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "jaicpjiggbecckkbdlanbdanneahibai",
+    "name": "Momentum Pro",
+    "icon": "https://lh3.googleusercontent.com/KyUyvdAB6iYZujnrrc125GLa6TqeVhNvqss8WwZEhHGbLUdU_2XilYsTkfHKOEAlTbAMWMGT5miUAUWwCTW4JT4wIg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "palidfpmacconbkcjgeahehkkbgooach",
+    "name": "Mindful Momentum",
+    "icon": "https://lh3.googleusercontent.com/UvcAiMfPsS3SBn_aM9Ze-kcs3E8PF5OBGFx27e8c-hoqVc_-9bHbWKzfMSskZ2Ylj-p2xiK_q4L7gzj_pGMpcVKQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "hdkgmkicdpmnfcapchaabckmcmjldieo",
+    "name": "Momentum",
+    "icon": "https://lh3.googleusercontent.com/nZXnFnQ6_N-56SeCYf64-xfxvFQcciC_UdPSZ-viOCy8pJFiQExxoccqJGEXWBeyV3an6461LQdOMe12so-XIVg2n3g=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ndccoajkpdpckpfaijfbobeodloefjkn",
+    "name": "Momentum",
+    "icon": "https://lh3.googleusercontent.com/BGOlc2Bq52tZvzj7pxZcjgd0uq-aF7XkJODDhKXH9QOKbB9ziSGQJCyOVOI6lKkyysxQoD8tDDVBG2ql77mQgg3-=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "gkkgbapmmffohbhhkppljfmcmopbhlgi",
+    "name": "momentum plus — premium n",
+    "icon": "https://lh3.googleusercontent.com/w3XXdQbx5deSzsHWRAIjLjpQJbkxO-hXNjTH"
+  },
+  {
+    "id": "hhefepkjfclhncgneofcnhhbhnldonon",
+    "name": "Codeforces Daily Momentum",
+    "icon": "https://lh3.googleusercontent.com/Ds1VLsvFeT9ponQqIgOoItWDt-IXeUBsf3_a90ToptM78j97n_4MghuCXw4y7pP2I6pNKwKdYmODnOiBwISDPUoeaA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "epamlgdeklcjkldoaclgjdmjnchdgbho",
+    "name": "Time Snatch",
+    "icon": "https://lh3.googleusercontent.com/5wMUQ_xJE2qJTzj64gFKbEntCSUwaX10VKTeDKi_BJnCLp-r_Uo5wIZ89kJhdBIacCvGPP-4wfDIX2RBPDSVk4Qn=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "jkomhmeccaodponfgiiokoabmgikfdgl",
+    "name": "Momentum Autofill",
+    "icon": "https://lh3.googleusercontent.com/AI_GCyd1AKrMMFZuqA5r4EBVEWe5oj3eJ1vZUyrfDEvc78ZV3GK-702mbtXYSxs9V7m2poWavpX_3zRQt2HQXZ8rFg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "pcfcokpgaghaahjkfjpnonbgfppkbhmn",
+    "name": "Momentum Swift",
+    "icon": "https://lh3.googleusercontent.com/mLzOyBxZHjYb_KaUqyGQfuwwQmwdFxu2gCOaKkWwdRR1jV3K7yOEZfp6Xu1kF7m01nJjbY7TXXPl1w3fOGvPaS4H=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "bmnlcjabgnpnenekpadlanbbkooimhnj",
+    "name": "Honey: Automated Coupons &amp; Rewards",
+    "icon": "https://lh3.googleusercontent.com/7JKQtRzFchNfomvdwyw0W2xhYnsSjNhWz7h2HpCihLEy9MjrodV4g0UFJFqBKgf2fZsmPF_rTVz-beAVrrXdsEzK5w=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "hlomapneamjfcnhkcjihndehokgkjdlm",
+    "name": "Bees and flies looking for honey",
+    "icon": "https://lh3.googleusercontent.com/iQf3LX0GTRduxYLmjaH_32jQ1d3-fe3fhdET9A6MCC9qq0ufIB1AAjGw2w9i8DTpgnDMoti8sRVzq_fAc4_gz9GkWgk=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "pjfhkicbpcgldcjejfmfmoicipeeiljp",
+    "name": "HQQuilt Amber Honey",
+    "icon": "https://lh3.googleusercontent.com/bjbq1CElEnnGTF0nfQDn4nJiHnTw33grCRXIfuJb2RA8UbDXqb-q6d7vI-8SVMIrUhSWtZLTUzWyOIvB_MbnclJbjrU=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "nogemohbdlpdajohpokgkjooifemadao",
+    "name": "Honey &amp; Red Paper Cranes",
+    "icon": "https://lh3.googleusercontent.com/ZPSt_WkvGSLnZgPYeuy5xA6qp7j85VHW4GK3GTXUH_eHD_21bmuoEzZB9N4iuIB-aFKrEdUMnavBF6XreGEYUGunow=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "llpfildadjpliamnnmbnibaookfjgjca",
+    "name": "Honey Hive",
+    "icon": "https://lh3.googleusercontent.com/1KpEx-lUtTPo1s4LOvgjRH3SzRp_9T0ssjn3upJl8JU6ueuB_m6MnMhwRVINibrjI6Od8hyI1LkwV0N0T4bX2wRMmQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ameiecilbnfgicanmpkhblmmjpledpii",
+    "name": "Honey",
+    "icon": "https://lh3.googleusercontent.com/oDg9fllpfqXNBSVG_cwt3dgxqfQ_zQDq1k5YXMFaABcunQSMG1aQhFKL9YMsMS6H13_rZSWdEQDVSl6M4henCnFpdg8=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "aodalnfhphphjbogcecooabodjfebdie",
+    "name": "Honey Oat",
+    "icon": "https://lh3.googleusercontent.com/_8nQ7vZ1u6bzjX7-gETTUMx3MwgNflmIcQwsX-PqtsKUsd3RK2XP-3Q8lyuxylgkY1SDPj-Ra_T1W2ySXhFI5QcITg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "mnhbchnongdpcfmbjaiflljikknkcbmi",
+    "name": "мёд и сухарики",
+    "icon": ""
+  },
+  {
+    "id": "adnaedapiegngooipmhalmaobgefdpgl",
+    "name": "Fig Honey",
+    "icon": "https://lh3.googleusercontent.com/Nv87eA4jyq55pPpaRbI3PjKyd7oRFYlpKoPpULP4heRaSsGEs-OSUwafZFRHaVvneE8pkVlLpr2B-lVPq1ifcVvzIQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "fnaelnlfcidealchonofahmkacjbkife",
+    "name": "Honeygain click for Honey",
+    "icon": "https://lh3.googleusercontent.com/qMzMG4g1zYxGmPKgU1a9cfaCn-IfQz51QTS422C5gkeX-ozan9v4yI8WJtA09e9nc3pwtYfHsrRxt2vfb_1WtpGYFA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+    "name": "MetaMask",
+    "icon": "https://lh3.googleusercontent.com/EQpmNpyWc98Rhu0bDzuPPS8ivQN2xZoc-saVhYHm5394wqS6eCRI5KyQFtxQf1z-OgS5HYVxvnUX8iv3uWy5jM2maw=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ljfoeinjpaedjfecbmggjgodbgkmjkjk",
+    "name": "MetaMask Flask DEVELOPMENT BUILD",
+    "icon": "https://lh3.googleusercontent.com/x786TqoIVFPmDz255ouDV2DwZNzssEY8mCBm0QemLknRdnkdXijjUZUK5kff0r7sNvqoOnOwOU1CK1ktS5ZSBJSL6A=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "lnbihfeiolndghgobjcmdafbblglkdnp",
+    "name": "MetaSpend",
+    "icon": "https://lh3.googleusercontent.com/fpK6suzujt6Wsslz3e_kKqkDrCvYwN_jHC5_48iJNDcE-WTBvTJGvtfaEMvhSe6HM18DeJpYNtrwC3Qu8LzYd613=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "mekcodfnjfedkfgcnabhdabapbolmbeg",
+    "name": "The Interceptor",
+    "icon": "https://lh3.googleusercontent.com/JJlDvfIsFH3R8uZ5hT1L-kGJlcnh5Iu2kYL7i_cAalq_1O5-aNd_DaUvVJH6SKUnte96iBXedcJSGkCn5lvX8YSmUg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "egjidjbpglichdcondbcbdnbeeppgdph",
+    "name": "Trust Wallet",
+    "icon": "https://lh3.googleusercontent.com/np4HOumdAD8htlHsTMiuJz_CyjcWhaG8BUG7WW_GJx7g3nb370MuBYEE8fZbG8bdsBiQZxiX_uJqutp2fn99C7X1uQI=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ehgjhhccekdedpbkifaojjaefeohnoea",
+    "name": "Ambire Web3 Wallet",
+    "icon": "https://lh3.googleusercontent.com/OjutsAVVh-3sQFdAl61IOaAooNh1WkTbWich0KYZa5z6lpyQjX5y1TrRnQbzkXDtXxAQUmEdgLCzAYBwRrsO18Wo1Q=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "djlahdpfkflehaepgohnnodmaajabdlg",
+    "name": "Clear EVM Wallet (CLW)",
+    "icon": "https://lh3.googleusercontent.com/7xPmU2jGVNGmFda6R8OIvepNmY4zh_hO0iZAIEGkGJeM5M8UnULBPZKZV-_XoRAb9WdhMNTNsz6lSfv2MBUmjGsA3hs=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ffemicnagndpapmgghkccbhedmcecfbf",
+    "name": "LastPass Password Generator Popup Blocker",
+    "icon": "https://lh3.googleusercontent.com/ghYpJ3KtVuBRduQ3kN0IfXWy2jIImqFnGTlBQXbVJvc9XJUIt2gNMOEaZEdVjSO_kZ0JT-r4k_790A0rP1MXd5xRZCs=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "dfmpbcllbbhegonagmfndllcphaggcfk",
+    "name": "LastPass Switch",
+    "icon": "https://lh3.googleusercontent.com/5sDxY4dS2kwhoqeZKlwAruFIaIu1ehQyBCqZAeCZ7pT7pYC2pIhfkrsQfD6DDUHIbMTcoF9xtB-OfZU4zKAQb7hD1Q=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "epploapfmppgiampjnpeolbofdjagbhc",
+    "name": "Icon Toggle for LastPass",
+    "icon": "https://lh3.googleusercontent.com/wd89Vtshw14KgGUAn_zZBC1vNCE92GML3Ap-TuBel_8nK78oMqXOR-F_ZAoMev9HfnCNTQMftcTcuDKY5RQJ07rY3sI=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "dohgalhbnpfpjebgjdbpellecgjkkpnl",
+    "name": "LastPass to Passwd Migration Assistant",
+    "icon": "https://lh3.googleusercontent.com/33nrEqkfgAYSKytZke5lZ-TNXtkpuQ6kyvMaShuggGD9ws01ekB6XoY9wvuoq6SZyyzSmqbV3bALIGlB_umcdkXj7w=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "hbkfmkahandehhbdlgbfhaeacecfeceo",
+    "name": "Amaranth Password Manager",
+    "icon": "https://lh3.googleusercontent.com/i3yU7kaocrrgRZyBNoISx9mw2gVhsR9HLQs2I8FDgQXUkY_Vfs4nI7PK08AY9qX6JojC-kJfudJTKQaMonake9Iozw=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "mlomiejdfkolichcflejclcbmpeaniij",
+    "name": "Ghostery Антибаннер",
+    "icon": "https://lh3.googleusercontent.com/cq9rmt9Qgky6HvDQxvS1BUr1j5pdnpJOVYn0fMOjRxUAJMXBcRi8D-hajtyK1Ztc5ePi_mQUnsvMInpJUG5rpkWM=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "nohlmehacfnlahodefnmhpbheknlilll",
+    "name": "Creepy Peeper",
+    "icon": "https://lh3.googleusercontent.com/3MGDPxQmJJYqtkyCuh0-zQHv-jTiYeTb1zQKWMIHSUlseFUXE6Y9tu_vmOBLvaH-VEKl5uEkK0JJtHjTe0SdVe9wEA=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ocpnpehnpilheklhbicgaaacaogipaml",
+    "name": "QuietBrowse",
+    "icon": "https://lh3.googleusercontent.com/fqXgm5MYgL024L6hJ0_mnkpmjrNHYWHH3RSSe7u-ZRNzbgHw4wagWBzm0gspLFxUWk584ZUcwnKHhZuvqlRU3jmsQQ=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "clngdbkpkpeebahjckkjfobafhncgmne",
+    "name": "Stylus",
+    "icon": "https://lh3.googleusercontent.com/2K8pc_5-2DkPam9b3oAWoITZ7IuIz68A5a8Ssg2_MNNHTPWPOPSBVTFdTmeVu9hi8GJxpKbvTekgwpeyGV6vXyBKH80=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "apmmpaebfobifelkijhaljbmpcgbjbdo",
+    "name": "Stylus (beta)",
+    "icon": "https://lh3.googleusercontent.com/zMvqvBh5bn0BAqvKVwRnZvY4NRqEeuDfxf2obGht_m2l4aV4XoDHDBs77mOFD98ScDWXnNxk-WYCvcjpqSSiT24xxg=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "ocdipkpibndoijnmmikihanggmakmfpp",
+    "name": "Stylus",
+    "icon": "https://lh3.googleusercontent.com/di9KjDvUel8pV-xup7g6GqFuNvxSIOL9Mf45ShSYNAeYUBVumRf1MuvzppxaU2PY8HcwEuvaUy8VkujSqHaz-rcw3w=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "jmhalcanpdaipobfcgeloibncchkfgio",
+    "name": "Stylus Menu For Text Free",
+    "icon": "https://lh3.googleusercontent.com/WjKBbATcllNl6vp8h0vqF_8Y6VmDy49rwdvPxPGsZjheIqIMngtbles3VG0URRVpiEjfkcHjc7fgBsQHp92X_uO9=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "dhdbadjkkmclkpcfofolhomoiakjephh",
+    "name": "HKUST Timetable Planner Stylus",
+    "icon": "https://lh3.googleusercontent.com/PHSFr5z5D9mJtvDsu48hMmzh4szS3r7Wpq9t0p4M3pLRFIRdDKOTpt2KAkJq1hJPMZU7XCCvp6pX9uxfzTw_nHaVAw=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "paflchebahgbgeambpbhoieeanaddehf",
+    "name": "Hand Tool",
+    "icon": "https://lh3.googleusercontent.com/l1C5WXR8Mvj6IeXCk3r3bUY8XPb475f53OQUyVibyg8HOqd6e_k5lfmSVgQeluOXn7cIpKXd2q59ytJE5jvN8XKRdw=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "bipblbkmjcfcbefcipkpeofnhnppfmpb",
+    "name": "Векторные чернила",
+    "icon": "https://lh3.googleusercontent.com/mqdnsq27LGBes8ZT6L05nSd1TmT3AWyd-aAKnph5ipE1EviXePRVtlmXvALChEb9t5suyWOB5m1n1E78S6pkDx4K=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "pdokhmldlccplfhhekeconkblhkmiold",
+    "name": "Рисование онлайн",
+    "icon": "https://lh3.googleusercontent.com/mgezyMt7EgRCG2sl58ry6CdJ9eP609rwdjVXP80cka0SUv3mgG9-6EwUg_91f0cPdB71zOOhPGcl6qlZPbaVRse7=s128-rj-sc0x00ffffff"
+  },
+  {
+    "id": "flnmmeocegjhhaifmdcgloibokjbanoh",
+    "name": "Whiteboard Lite",
+    "icon": "https://lh3.googleusercontent.com/IERr9QygZFIgAPPs9vWGnzhVc1BZZVkBR1xxCGSKnhriiAUf3k5UMUShe2QupnWMrJ3AOHHMknVecDYRYoW5O843=s128-rj-sc0x00ffffff"
   }
 ]
