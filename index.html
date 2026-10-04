@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Дополнения Glove</title>
+  <style>
+    :root { --ink: #202124; --muted: #5f6368; --line: #dadce0; --green: #234230; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: "Segoe UI", Roboto, sans-serif; color: var(--ink); }
+    header, main, footer { max-width: 960px; margin: 0 auto; padding: 20px; }
+    header { display: flex; justify-content: space-between; align-items: center; }
+    a { color: var(--green); text-decoration: none; }
+    h1 { font-weight: 500; margin: 8px 0 12px; }
+    form { display: flex; gap: 8px; }
+    input { flex: 1; height: 44px; border: 1px solid var(--line); border-radius: 22px; padding: 0 16px; font: inherit; }
+    button { height: 44px; border: 0; border-radius: 22px; padding: 0 16px; background: var(--green); color: #fff; font-weight: 600; cursor: pointer; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin-top: 20px; }
+    article { border: 1px solid var(--line); border-radius: 16px; padding: 14px; }
+    article p { display: flex; flex-wrap: wrap; gap: 8px; }
+    article a { border: 1px solid var(--line); border-radius: 14px; padding: 4px 10px; }
+    .lead { color: var(--muted); }
+    footer { color: var(--muted); }
+    .cookie { position: fixed; left: 16px; right: 16px; bottom: 16px; display: flex; gap: 16px; align-items: center; justify-content: space-between; max-width: 960px; margin: 0 auto; padding: 14px 16px; background: #fff; border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 8px 24px rgba(32,33,36,.12); }
+    .cookie[hidden] { display: none; }
+    .cookie p { margin: 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <strong>Дополнения</strong>
+    <nav><a href="https://glove.mineholde.pro/">Glove Browser</a> · <a href="privacy.html">Конфиденциальность</a></nav>
+  </header>
+  <main>
+    <h1>Бесплатные дополнения</h1>
+    <p class="lead">Каталог для Glove, Chrome, Яндекса и Edge. В Windows-версии Glove дополнение с VPN подключает соединение браузера.</p>
+    <form id="find">
+      <input id="q" name="q" placeholder="Название дополнения" />
+      <button type="submit">Найти</button>
+    </form>
+    <div id="list" class="grid"></div>
+  </main>
+  <footer>glove-dop.mineholde.pro</footer>
+  <div id="cookie" class="cookie" hidden>
+    <p>Сайт запоминает, что вы закрыли это сообщение. Подробности — в <a href="privacy.html">политике конфиденциальности</a>.</p>
+    <button id="cookieOk" type="button">Понятно</button>
+  </div>
+  <script>
+    var glove = navigator.userAgent.indexOf("GloveBrowser") >= 0;
+    var box = document.getElementById("list");
+    function buttons(item) {
+      var id = item.id;
+      return '<a href="glove://install?id=' + id + '">Glove</a>'
+        + '<a href="https://chromewebstore.google.com/detail/' + id + '">Chrome</a>'
+        + '<a href="https://chromewebstore.google.com/detail/' + id + '">Яндекс</a>'
+        + '<a href="https://chromewebstore.google.com/detail/' + id + '">Edge</a>';
+    }
+    function draw(items) {
+      box.innerHTML = items.map(function (item) {
+        var name = String(item.name).replace(/[&<>]/g, function (ch) { return ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[ch]; });
+        return "<article><h3>" + name + "</h3><p>" + buttons(item) + "</p></article>";
+      }).join("") || "<p class='lead'>Ничего не нашлось. В Glove для Windows поиск смотрит весь бесплатный каталог.</p>";
+    }
+    var catalog = [];
+    fetch("catalog.json").then(function (r) { return r.json(); }).then(function (data) {
+      catalog = data || [];
+      show();
+    }).catch(function () { show(); });
+    function show() {
+      var q = new URLSearchParams(location.search).get("q") || "";
+      document.getElementById("q").value = q;
+      if (glove && q) {
+        location.href = "https://orion.glove/market?q=" + encodeURIComponent(q);
+        return;
+      }
+      var needle = q.toLowerCase();
+      draw(needle ? catalog.filter(function (item) { return item.name.toLowerCase().indexOf(needle) >= 0; }) : catalog.slice(0, 24));
+    }
+    document.getElementById("find").onsubmit = function (event) {
+      event.preventDefault();
+      var q = document.getElementById("q").value.trim();
+      if (glove) {
+        location.href = "https://orion.glove/market?q=" + encodeURIComponent(q);
+        return;
+      }
+      history.replaceState(null, "", q ? "?q=" + encodeURIComponent(q) : location.pathname);
+      show();
+    };
+    if (!localStorage.getItem("glove-cookie")) document.getElementById("cookie").hidden = false;
+    document.getElementById("cookieOk").onclick = function () {
+      localStorage.setItem("glove-cookie", "1");
+      document.getElementById("cookie").hidden = true;
+    };
+  </script>
+</body>
+</html>
